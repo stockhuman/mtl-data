@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "crawler": "^1.4.0",
+    "nodejs-web-scraper": "^6.1.3"
+  }
+}

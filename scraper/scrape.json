@@ -1,0 +1,3925 @@
+[
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/lieux-batiments-vocation-publique",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Agriculture et alimentation"]
+      },
+      {
+        "name": "title",
+        "data": ["Lieux et bâtiments à vocation publique"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/4731b64f-29cc-4e08-bc44-8752ae2fcafb/download/lieux-fr.csv",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/e1aa4932-b9e9-4aaf-b231-b294f5efcea3/download/lieux-fr.zip",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/2b8bf94c-6b9a-4d60-8091-5b82467a4138/download/lieux-fr.geojson",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/81080d62-5c89-41e6-a401-99f77c459594/download/lieux-en.csv",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/396b5882-45ab-40b3-a364-6a719246b30d/download/lieux-en.zip",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/c58457eb-b4e7-46c4-abce-21137839bcd8/download/lieux-en.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/inspection-aliments-bilan",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Agriculture et alimentation"]
+      },
+      {
+        "name": "title",
+        "data": ["Rapport sur les activités de l'inspection des aliments"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/single/?appid=ac6fdcfb-fbe6-4a47-a977-ab5136f50883&sheet=6ae4a3fd-782e-465e-933e-84595976d5fa&opt=ctxmenu,currsel",
+          "https://donnees.montreal.ca/dataset/fa01965a-6db5-42f9-b889-d39769b046eb/resource/0e09829f-3e24-4fb3-94cf-0e8b727de22b/download/inspection-aliments-bilan.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/inspection-aliments-contrevenants",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Agriculture et alimentation"]
+      },
+      {
+        "name": "title",
+        "data": ["Inspections des aliments et contrevenants"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/single/?appid=4a2c5409-6f19-46ca-a802-f8b3bf7faab2&sheet=SH01&opt=ctxmenu,currsel",
+          "https://donnees.montreal.ca/dataset/05a9e718-6810-4e73-8bb9-5955efeb91a0/resource/7f939a08-be8a-45e1-b208-d8744dca8fc6/download/violations.csv",
+          "https://donnees.montreal.ca/dataset/05a9e718-6810-4e73-8bb9-5955efeb91a0/resource/0103372a-8080-48f2-a9b4-3136cb3bea40/download/feed_info.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/etablissements-alimentaires",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Agriculture et alimentation"]
+      },
+      {
+        "name": "title",
+        "data": ["Établissements alimentaires"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/single/?appid=e80e230d-3b27-493b-89ec-74bd3d039a79&sheet=2987dd88-c7a7-4c2d-9d12-511e8eb0d0ff&opt=ctxmenu,currsel",
+          "https://donnees.montreal.ca/dataset/c1d65779-d3cb-44e8-af0a-b9f2c5f7766d/resource/28a4957d-732e-48f9-8adb-0624867d9bb0/download/businesses.csv",
+          "https://donnees.montreal.ca/dataset/c1d65779-d3cb-44e8-af0a-b9f2c5f7766d/resource/ece728c7-6f2d-4a51-a36d-21cd70e0ddc7/download/businesses.geojson",
+          "https://donnees.montreal.ca/dataset/c1d65779-d3cb-44e8-af0a-b9f2c5f7766d/resource/a9fc1f85-f40a-4841-807c-42f6eb5c2617/download/businesses.zip"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/demandes-aide-alimentaire",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Agriculture et alimentation"]
+      },
+      {
+        "name": "title",
+        "data": ["Suivis des demandes d'aide alimentaire au 211"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/bd715b49-1cb7-496a-9263-f953eb89a082/resource/64049c2b-14d3-4d4a-86a7-3e2b5cbaeca4/download/demandes-aide-alimentaire.csv",
+          "https://donnees.montreal.ca/dataset/bd715b49-1cb7-496a-9263-f953eb89a082/resource/3749c4e8-2d99-4187-8015-a0607f6368fa/download/suivis-aide-alimentaire.csv",
+          "https://donnees.montreal.ca/dataset/bd715b49-1cb7-496a-9263-f953eb89a082/resource/e15e1c11-4389-40b3-9d23-e7c5d8287537/download/besoins-aide-alimentaire.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/agriculture-urbaine-sondage",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Agriculture et alimentation"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Agriculture urbaine : sondage auprès de la population de l’île de Montréal"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/sense/app/40befce2-c470-48bb-b678-1d57876707a0/sheet/SH01/state/analysis",
+          "https://donnees.montreal.ca/dataset/ac48914c-8e75-4fc3-b93f-1d3f169ae1ff/resource/8aca9011-2673-4b6c-b0cd-c7fc2ff43dc6/download/au-vdm-donnees-20130829.csv",
+          "https://donnees.montreal.ca/dataset/ac48914c-8e75-4fc3-b93f-1d3f169ae1ff/resource/f36cd957-9d8a-4974-a2c8-9f7f72ebb3f8/download/au_vdm_frequences_brutes_finales_20130829.docx",
+          "https://donnees.montreal.ca/dataset/ac48914c-8e75-4fc3-b93f-1d3f169ae1ff/resource/e25c752c-c7d1-4a30-b969-1fb6b896f2ab/download/au_vdm_sommaire_executif_20130905.docx",
+          "https://donnees.montreal.ca/dataset/ac48914c-8e75-4fc3-b93f-1d3f169ae1ff/resource/1bc8f41b-ccb5-4ef6-8f58-1b611f354864/download/au_vdm_tableaux_croises_ponderes_20130829.docx"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/cuisine-de-rue",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Agriculture et alimentation"]
+      },
+      {
+        "name": "title",
+        "data": ["Calendrier de la cuisine de rue"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://montreal.bestfoodtrucks.com/api/events/events?when=today",
+          "https://montreal.bestfoodtrucks.com/api/events/what_options/",
+          "https://donnees.montreal.ca/dataset/49a62ebe-25da-4414-95b2-a2fc94100755/resource/0096c4b2-77fe-4c2a-966c-309b908741e8/download/taux-doccupation-ete-2016.xlsx"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/lieux-batiments-vocation-publique",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Agriculture et alimentation"]
+      },
+      {
+        "name": "title",
+        "data": ["Lieux et bâtiments à vocation publique"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/4731b64f-29cc-4e08-bc44-8752ae2fcafb/download/lieux-fr.csv",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/e1aa4932-b9e9-4aaf-b231-b294f5efcea3/download/lieux-fr.zip",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/2b8bf94c-6b9a-4d60-8091-5b82467a4138/download/lieux-fr.geojson",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/81080d62-5c89-41e6-a401-99f77c459594/download/lieux-en.csv",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/396b5882-45ab-40b3-a364-6a719246b30d/download/lieux-en.zip",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/c58457eb-b4e7-46c4-abce-21137839bcd8/download/lieux-en.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/etude-barrieres-entrepreneuriat-populations-vulnerables",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Économie et entreprises"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Étude sur les barrières d'accès à l'entrepreneuriat chez les populations vulnérables"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/dc41a1dd-3e0d-4d77-880e-045bb875ab35/resource/00ce9d7b-90ba-4eb1-8e64-feca737784aa/download/barrieres-acces-entrepreneuriat-courte.csv",
+          "https://donnees.montreal.ca/dataset/dc41a1dd-3e0d-4d77-880e-045bb875ab35/resource/7a84331f-8b5d-41dd-8e53-0bf92ab675e7/download/barrieres-acces-entrepreneuriat-longue.csv",
+          "https://donnees.montreal.ca/dataset/dc41a1dd-3e0d-4d77-880e-045bb875ab35/resource/9eecc8e6-b16f-4e9e-9625-6de825c0fe5f/download/barrieres-acces-entrepreneuriat-variables.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/locaux-commerciaux",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Économie et entreprises"]
+      },
+      {
+        "name": "title",
+        "data": ["Locaux commerciaux et statuts d'occupation"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/sense/app/1b530970-e357-44d6-be85-000a785e752c/sheet/0b650bec-a3ba-43ef-b6e5-4602e51e1a8b/state/analysis",
+          "https://donnees.montreal.ca/dataset/f8582c4d-a933-4306-bb27-d883e13dd207/resource/2f8d12aa-f338-4a4f-a516-3438142074a9/download/occupation-commerciale-2022.csv",
+          "https://donnees.montreal.ca/dataset/f8582c4d-a933-4306-bb27-d883e13dd207/resource/7e736f37-c935-4028-8ffe-02e1403c1eaa/download/occupation-commerciale-2022.geojson",
+          "https://donnees.montreal.ca/dataset/f8582c4d-a933-4306-bb27-d883e13dd207/resource/b98fbcf0-1c70-4613-9a07-aca812ba795d/download/occupation-commerciale-2022.zip",
+          "https://donnees.montreal.ca/dataset/f8582c4d-a933-4306-bb27-d883e13dd207/resource/aeea46d3-c4bc-45b5-9ad1-27877d9cb444/download/methodologie-enquete-terrain-2022.pdf",
+          "https://donnees.montreal.ca/dataset/f8582c4d-a933-4306-bb27-d883e13dd207/resource/ef70f2e5-6f97-4f10-a609-3525ffbf6c98/download/occupation-commerciale-2021.csv",
+          "https://donnees.montreal.ca/dataset/f8582c4d-a933-4306-bb27-d883e13dd207/resource/79ed7e21-d82d-4c08-9352-10aec21f43d1/download/occupation-commerciale-2021.geojson",
+          "https://donnees.montreal.ca/dataset/f8582c4d-a933-4306-bb27-d883e13dd207/resource/4d32b5b9-000e-47c6-852c-64201e3f543b/download/occupation-commerciale-2021.zip",
+          "https://donnees.montreal.ca/dataset/f8582c4d-a933-4306-bb27-d883e13dd207/resource/350d11b6-841b-4345-af80-2f315c3fda06/download/methodologie-enquete-terrain-2021.pdf",
+          "https://donnees.montreal.ca/dataset/f8582c4d-a933-4306-bb27-d883e13dd207/resource/bb891287-3690-4a5a-9641-09cea02a8cc7/download/usages.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/informe-commercants",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Économie et entreprises"]
+      },
+      {
+        "name": "title",
+        "data": ["J'informe les commerçants"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/1ee14ee7-c68e-4735-83be-b2686a632dbe/resource/1d8f149f-7109-4f66-9554-69f8d9329a79/download/j_informe_les_commercants.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/indicateurs-de-l-etat-du-centre-ville",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Économie et entreprises"]
+      },
+      {
+        "name": "title",
+        "data": ["Indicateurs de l'état du centre-ville"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/92516710-bdc9-404b-b4b5-b8472a1e8803/resource/eae25e9a-3ca8-4d81-9c25-d09ef4ae2b97/download/indicateurs-etat-centre-ville.xlsx"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/requetes-entreprises-covid-19",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Économie et entreprises"]
+      },
+      {
+        "name": "title",
+        "data": ["Requêtes des entreprises dans le cadre de la COVID-19"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/036d5de5-2ba0-4aec-8f9e-9bdc63c589a2/resource/b3b062d9-9c3b-4d0e-99fb-179d71d755c5/download/requetes_entreprises_covid-19.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/sondage-inclusion-personnes-immigrantes",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Politiques sociales"]
+      },
+      {
+        "name": "title",
+        "data": ["Sondage Écho sur l'inclusion des personnes immigrantes"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/2faa580d-d127-4a30-a79a-1ebf9d255f9b/resource/88bb6a18-54fa-4789-82e8-14888a933a4a/download/sondage-echo-donnees-2020.csv",
+          "https://donnees.montreal.ca/dataset/2faa580d-d127-4a30-a79a-1ebf9d255f9b/resource/05e2c30e-c388-4fd4-b16a-1de911acf23c/download/sondage-echo-variables-2020.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/rsqa-indice-qualite-air",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Environnement, ressources naturelles et énergie"]
+      },
+      {
+        "name": "title",
+        "data": ["RSQA - indice de la qualité de l'air temps réel (quotidien)"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/3e9f7b96-3f25-4404-a5ad-22d9a31060e6/resource/a25fdea2-7e86-42ac-8301-ca77db3ff17e/download/rsqa-indice-qualite-air.csv",
+          "https://donnees.montreal.ca/dataset/3e9f7b96-3f25-4404-a5ad-22d9a31060e6/resource/ccd5a4b7-cbca-4f5f-a746-ad8c576af374/download/rsqa-indice-qualite-air-station.csv",
+          "https://donnees.montreal.ca/dataset/3e9f7b96-3f25-4404-a5ad-22d9a31060e6/resource/9c7434e9-f5af-4154-991c-293fbd5cb626/download/rsqa-indice-qualite-air-secteur.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/rsqa-iqa-historique",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Environnement, ressources naturelles et énergie"]
+      },
+      {
+        "name": "title",
+        "data": ["RSQA - indice de la qualité de l'air (historique)"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/547b8052-1710-4d69-8760-beaa3aa35ec6/resource/0c325562-e742-4e8e-8c36-971f3c9e58cd/download/rsqa-indice-qualite-air-2022-2024.csv",
+          "https://donnees.montreal.ca/dataset/547b8052-1710-4d69-8760-beaa3aa35ec6/resource/e43dc1d6-fbdd-49c3-a79f-83f63404c281/download/rsqa-indice-qualite-air-2019-2021.csv",
+          "https://donnees.montreal.ca/dataset/547b8052-1710-4d69-8760-beaa3aa35ec6/resource/93a3a88e-97ab-4ab1-813f-5419a1dd330d/download/rsqa-indice-qualite-air-2016-2018.csv",
+          "https://donnees.montreal.ca/dataset/547b8052-1710-4d69-8760-beaa3aa35ec6/resource/02cfaf0c-3b46-4dac-bf66-acd2ff47361a/download/rsqa-indice-qualite-air-2013-2015.csv",
+          "https://donnees.montreal.ca/dataset/547b8052-1710-4d69-8760-beaa3aa35ec6/resource/6e59c6e9-749b-4237-9c45-5c627be2b7ad/download/rsqa-indice-qualite-air-2010-2012.csv",
+          "https://donnees.montreal.ca/dataset/547b8052-1710-4d69-8760-beaa3aa35ec6/resource/a4a7cc31-6a55-40c3-852b-08ade7e91f8e/download/rsqa-indice-qualite-air-2007-2009.csv",
+          "https://donnees.montreal.ca/dataset/547b8052-1710-4d69-8760-beaa3aa35ec6/resource/437c1715-508f-4588-8fda-772f35be6bd4/download/rsqa-indice-qualite-air-station-2022-2024.csv",
+          "https://donnees.montreal.ca/dataset/547b8052-1710-4d69-8760-beaa3aa35ec6/resource/cfd91ae1-82b4-407f-ab26-98d5f3f37395/download/rsqa-indice-qualite-air-station-2019-2021.csv",
+          "https://donnees.montreal.ca/dataset/547b8052-1710-4d69-8760-beaa3aa35ec6/resource/b5dcad47-ce13-4c55-8c56-ede70527e216/download/rsqa-indice-qualite-air-station-2016-2018.csv",
+          "https://donnees.montreal.ca/dataset/547b8052-1710-4d69-8760-beaa3aa35ec6/resource/08da9791-36f8-4f87-b85e-64e690ff06a1/download/rsqa-indice-qualite-air-station-2013-2015.csv",
+          "https://donnees.montreal.ca/dataset/547b8052-1710-4d69-8760-beaa3aa35ec6/resource/9933509e-caed-430a-bf1f-a4c3f74e0685/download/rsqa-indice-qualite-air-station-2010-2012.csv",
+          "https://donnees.montreal.ca/dataset/547b8052-1710-4d69-8760-beaa3aa35ec6/resource/a7434980-839c-4f2d-9035-95bccca67a6a/download/rsqa-indice-qualite-air-station-2007-2009.csv",
+          "https://donnees.montreal.ca/dataset/547b8052-1710-4d69-8760-beaa3aa35ec6/resource/95582ab7-e2be-416b-8726-51c24faee30e/download/rsqa-indice-qualite-air-secteur-2022-2024.csv",
+          "https://donnees.montreal.ca/dataset/547b8052-1710-4d69-8760-beaa3aa35ec6/resource/42434f5c-2c57-4b66-8880-1ca484930f09/download/rsqa-indice-qualite-air-secteur-2019-2021.csv",
+          "https://donnees.montreal.ca/dataset/547b8052-1710-4d69-8760-beaa3aa35ec6/resource/ac5cbc12-5113-4737-81aa-a73fe957eaea/download/rsqa-indice-qualite-air-secteur-2016-2018.csv",
+          "https://donnees.montreal.ca/dataset/547b8052-1710-4d69-8760-beaa3aa35ec6/resource/e7203675-a87f-4290-bcc6-510f0d050687/download/rsqa-indice-qualite-air-secteur-2013-2015.csv",
+          "https://donnees.montreal.ca/dataset/547b8052-1710-4d69-8760-beaa3aa35ec6/resource/40ffb74c-34f7-404d-894c-9c8b7b0df06e/download/rsqa-indice-qualite-air-secteur-2010-2012.csv",
+          "https://donnees.montreal.ca/dataset/547b8052-1710-4d69-8760-beaa3aa35ec6/resource/a9827951-8472-40cc-8c19-c50d86b3de61/download/rsqa-indice-qualite-air-secteur-2007-2009.csv",
+          "https://donnees.montreal.ca/dataset/547b8052-1710-4d69-8760-beaa3aa35ec6/resource/73e0c0de-879c-4afa-988a-8cfb36ca95d9/download/rsqa-indice-qualite-air-historique.csv",
+          "https://donnees.montreal.ca/dataset/547b8052-1710-4d69-8760-beaa3aa35ec6/resource/a4999b65-f50f-4d25-b39d-2721009ba32a/download/rsqa-indice-qualite-air-station-historique.csv",
+          "https://donnees.montreal.ca/dataset/547b8052-1710-4d69-8760-beaa3aa35ec6/resource/141029c7-d873-4e5f-94c3-9a77aae4d5f6/download/rsqa-indice-qualite-air-secteur-historique.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/signalements-de-coyotes",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Environnement, ressources naturelles et énergie"]
+      },
+      {
+        "name": "title",
+        "data": ["Signalements de coyotes"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/eedac88d-8ec4-435f-ba07-32978127e540/resource/f5183819-098c-418a-ae2e-d8011970adf5/download/signalements-coyotes.csv",
+          "https://donnees.montreal.ca/dataset/eedac88d-8ec4-435f-ba07-32978127e540/resource/41b8515d-3678-4cc5-8929-c39a80a29d4c/download/signalements-coyotes.zip",
+          "https://donnees.montreal.ca/dataset/eedac88d-8ec4-435f-ba07-32978127e540/resource/1c6e2197-0afe-46be-8ed3-2e8886929c4e/download/signalements-coyotes.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/lieux-batiments-vocation-publique",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Agriculture et alimentation"]
+      },
+      {
+        "name": "title",
+        "data": ["Lieux et bâtiments à vocation publique"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/4731b64f-29cc-4e08-bc44-8752ae2fcafb/download/lieux-fr.csv",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/e1aa4932-b9e9-4aaf-b231-b294f5efcea3/download/lieux-fr.zip",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/2b8bf94c-6b9a-4d60-8091-5b82467a4138/download/lieux-fr.geojson",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/81080d62-5c89-41e6-a401-99f77c459594/download/lieux-en.csv",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/396b5882-45ab-40b3-a364-6a719246b30d/download/lieux-en.zip",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/c58457eb-b4e7-46c4-abce-21137839bcd8/download/lieux-en.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/abattage-arbres-publics",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Environnement, ressources naturelles et énergie"]
+      },
+      {
+        "name": "title",
+        "data": ["Abattage - Arbres publics sur le territoire de la Ville"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/sense/app/13c61352-8813-41fa-95f6-d4ac486f6879/sheet/SH01/state/analysis",
+          "https://donnees.montreal.ca/dataset/63ca34cd-d636-420c-929b-cac47116f2e5/resource/d99f8ff2-55ae-4581-920e-146219c5f429/download/arbres-abattages.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/arbres",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Environnement, ressources naturelles et énergie"]
+      },
+      {
+        "name": "title",
+        "data": ["Arbres publics sur le territoire de la Ville"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/b89fd27d-4b49-461b-8e54-fa2b34a628c4/resource/64e28fe6-ef37-437a-972d-d1d3f1f7d891/download/arbres-publics.csv",
+          "https://donnees.montreal.ca/dataset/b89fd27d-4b49-461b-8e54-fa2b34a628c4/resource/6c217c92-63c8-49e8-a6ef-afda6121656d/download/arbres-dhp.csv",
+          "https://donnees.montreal.ca/dataset/b89fd27d-4b49-461b-8e54-fa2b34a628c4/resource/c9f2c2d5-3041-4d83-9d09-e06c1c12e408/download/etatinventaire_arbrespublics_pararrondissement.csv",
+          "https://donnees.montreal.ca/dataset/b89fd27d-4b49-461b-8e54-fa2b34a628c4/resource/7fe8c742-ee64-4cca-b889-467b68e7db6a/download/dictionnaire-de-donnees-arbres-publics_rev2018.pdf",
+          "https://donnees.montreal.ca/dataset/b89fd27d-4b49-461b-8e54-fa2b34a628c4/resource/a1395154-55b2-4ad9-94a8-142b982e1d94/download/montrealnordarbrespublics20161207.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/rsma-qualite-de-l-eau-en-rive-qualo",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Environnement, ressources naturelles et énergie"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Qualité de l’eau en rive (QUALO) du réseau de suivi du milieu aquatique (RSMA)"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/single/?appid=899abde7-3d9e-4ef8-9e1e-984069dd571e&sheet=SH01&opt=ctxmenu,currsel",
+          "https://donnees.montreal.ca/dataset/30bafcfe-b63e-4af4-a179-e64ed606a403/resource/9136d84a-8273-4777-ad68-9ab05d270322/download/rsma-qualo-qualite-eau-rive-annee-courante.csv",
+          "https://donnees.montreal.ca/dataset/30bafcfe-b63e-4af4-a179-e64ed606a403/resource/bd5219d1-9cef-43a1-abf8-076a85b67826/download/rsma-qualo-qualite-eau-rive-annee-courante.geojson",
+          "https://donnees.montreal.ca/dataset/30bafcfe-b63e-4af4-a179-e64ed606a403/resource/38793fe2-c90a-4500-95e0-b026b94661bf/download/rsma-qualo-qualite-eau-rive-depuis-2012.csv",
+          "https://donnees.montreal.ca/dataset/30bafcfe-b63e-4af4-a179-e64ed606a403/resource/bef05816-0b4f-455d-8830-64bf4fd71b5f/download/rsma-qualo-qualite-eau-rive-depuis-2012.geojson",
+          "https://donnees.montreal.ca/dataset/30bafcfe-b63e-4af4-a179-e64ed606a403/resource/48bc4a01-d21e-44cc-974a-58dfe8773233/download/donneesqualo2011.csv",
+          "https://donnees.montreal.ca/dataset/30bafcfe-b63e-4af4-a179-e64ed606a403/resource/2119c8fd-da76-487b-8fc0-e4448d6bd0a3/download/donneesqualo2010.csv",
+          "https://donnees.montreal.ca/dataset/30bafcfe-b63e-4af4-a179-e64ed606a403/resource/d0f47b49-da79-4244-b6a1-9e4080a046ec/download/donneesqualo2009.csv",
+          "https://donnees.montreal.ca/dataset/30bafcfe-b63e-4af4-a179-e64ed606a403/resource/fdd6c15c-a6a7-4b20-9253-cbdd0f5b2d7c/download/donneesqualo2008.csv",
+          "https://donnees.montreal.ca/dataset/30bafcfe-b63e-4af4-a179-e64ed606a403/resource/108d5088-d60b-4742-9853-9e4d72a52874/download/donneesqualo2007.csv",
+          "https://donnees.montreal.ca/dataset/30bafcfe-b63e-4af4-a179-e64ed606a403/resource/c2f10305-9782-453a-9567-072b48fffdea/download/donneesqualo2006.csv",
+          "https://donnees.montreal.ca/dataset/30bafcfe-b63e-4af4-a179-e64ed606a403/resource/eb058ebb-6f6d-4375-8404-87f49b3d6d57/download/donneesqualo2005.csv",
+          "https://donnees.montreal.ca/dataset/30bafcfe-b63e-4af4-a179-e64ed606a403/resource/6bbc3ae4-5b32-4091-90ca-ad061a0a2e17/download/donneesqualo2004.csv",
+          "https://donnees.montreal.ca/dataset/30bafcfe-b63e-4af4-a179-e64ed606a403/resource/ce72fff7-6bea-4cf9-92b3-ec56c4c1c9f0/download/donneesqualo2003.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/rsma-donnees-ruisso-annuelle",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Environnement, ressources naturelles et énergie"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Qualité bactériologique et physicochimique des ruisseaux et plans d’eau intérieurs (RUISSO) du réseau de suivi du milieu aquatique (RSMA)"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/sense/app/e6b02bd3-54c9-4e95-b899-39d0d92c5f7b/sheet/SH01/state/analysis",
+          "https://donnees.montreal.ca/dataset/8c149ace-7b2f-4041-99ec-3bdbef5dcee6/resource/4aef9903-83b0-4df0-810e-a58b9c7ce8af/download/rsma-ruisso-qualite-ruisseaux-plans-eau-interieurs-annee-courante.csv",
+          "https://donnees.montreal.ca/dataset/8c149ace-7b2f-4041-99ec-3bdbef5dcee6/resource/69d17b5a-38e2-4f17-9368-4b4cd826e2ae/download/rsma-ruisso-qualite-ruisseaux-plans-eau-interieurs-annee-courante.geojson",
+          "https://donnees.montreal.ca/dataset/8c149ace-7b2f-4041-99ec-3bdbef5dcee6/resource/5fe08517-127c-47be-9112-769541e67abd/download/rsma-ruisso-qualite-ruisseaux-plans-eau-interieurs-depuis-2012.csv",
+          "https://donnees.montreal.ca/dataset/8c149ace-7b2f-4041-99ec-3bdbef5dcee6/resource/c3a3a0a9-b53b-4262-a295-04f6e429fca3/download/rsma-ruisso-qualite-ruisseaux-plans-eau-interieurs-depuis-2012.geojson",
+          "https://donnees.montreal.ca/dataset/8c149ace-7b2f-4041-99ec-3bdbef5dcee6/resource/f0a1d8e0-cf30-4ade-84ec-85c13df1d9ec/download/donnees_ruisso_2011.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/compteurs-eau",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Environnement, ressources naturelles et énergie"]
+      },
+      {
+        "name": "title",
+        "data": ["Compteurs d'eau exploités par la Ville de Montréal"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/6502942d-788a-43ff-b935-eb7b7d8b58cd/resource/01f91df2-6ed9-47b2-ba85-e6bc9236ac73/download/compteur-eau.csv",
+          "https://donnees.montreal.ca/dataset/6502942d-788a-43ff-b935-eb7b7d8b58cd/resource/d43c8941-74dd-481b-9141-437310e14f63/download/compteur-eau.geojson",
+          "https://donnees.montreal.ca/dataset/6502942d-788a-43ff-b935-eb7b7d8b58cd/resource/ffdb23b7-e728-4ec7-9d0e-be8ab83c17cc/download/compteur-eau.zip"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/info-collectes",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Environnement, ressources naturelles et énergie"]
+      },
+      {
+        "name": "title",
+        "data": ["Secteurs Info-collectes"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e/resource/5f3fb372-64e8-45f2-a406-f1614930305c/download/collecte-des-ordures-menageres.geojson",
+          "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e/resource/7a09648c-07a9-4d64-8a85-925642ea4bec/download/collecte-des-ordures-menageres.zip",
+          "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e/resource/d02dac7d-a114-4113-8e52-266001447591/download/collecte-des-matieres-recyclables.geojson",
+          "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e/resource/0d463ba4-cc3f-45f8-a067-1ad81e404ad6/download/collecte-des-matieres-recyclables.zip",
+          "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e/resource/61e8c7e6-9bf1-45d9-8ebe-d7c0d50cfdbb/download/collecte-des-residus-alimentaires.geojson",
+          "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e/resource/7e389a53-b7b9-4fd0-8129-92a6ace1ecb7/download/collecte-des-residus-alimentaires.zip",
+          "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e/resource/06ec4987-47c9-4f05-a1ae-e164a96699c7/download/collecte-des-matieres-organiques.geojson",
+          "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e/resource/09d1d50f-8a07-4432-b00b-5a3ac60e2ee9/download/collecte-des-matieres-organiques.zip",
+          "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e/resource/d0882022-c74d-4fe2-813d-1aa37f6427c9/download/collecte-des-residus-verts-incluant-feuilles-mortes.geojson",
+          "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e/resource/ae142b4f-315f-4107-9ad9-4ef107380279/download/collecte-des-residus-verts-incluant-feuilles-mortes.zip",
+          "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e/resource/2345d55a-5325-488c-b4fc-a885fae458e2/download/collecte-des-residus-de-construction-de-renovation-et-de-demolition-crd-et-encombrants.geojson",
+          "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e/resource/19d30b36-350c-49ab-9b12-74a57478ba52/download/collecte-des-residus-de-construction-de-renovation-et-de-demolition-crd-et-encombrants.zip"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/jardins-communautaires",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Environnement, ressources naturelles et énergie"]
+      },
+      {
+        "name": "title",
+        "data": ["Jardins communautaires"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/ab4482a0-79a7-45d8-a776-2391c85cf11a/resource/d617b942-7bdf-4e8e-87e9-0bc9b3a088c0/download/jardins-communautaires.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/anciennes-carrieres-depots-surface",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Environnement, ressources naturelles et énergie"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Anciennes carrières et dépôts de surface du territoire Montréalais"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://environnementmtl.maps.arcgis.com/apps/webappviewer/index.html?id=eddfe22f7ef54982a6545e8eb3c86a9a",
+          "https://donnees.montreal.ca/dataset/d332b1ef-95af-42d8-a996-7e451f1c6722/resource/4197dcf3-0f90-4034-b021-85c52ba4c9c2/download/anciennes_carrieres_depot_surface.zip",
+          "https://donnees.montreal.ca/dataset/d332b1ef-95af-42d8-a996-7e451f1c6722/resource/56810fb3-18cf-44e5-b402-7dceef468cd8/download/anciennes_carrieres_depot_surface.geojson",
+          "https://donnees.montreal.ca/dataset/d332b1ef-95af-42d8-a996-7e451f1c6722/resource/05e79cdf-c591-4607-a30b-19ca790f84ad/download/anciennes_carrieres_depot_surface.csv",
+          "https://donnees.montreal.ca/dataset/d332b1ef-95af-42d8-a996-7e451f1c6722/resource/b74e2fb4-fd44-40dc-b530-aaf5987cb8f4/download/documents_anciennes_carrieres_depots_surfa.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/milieux-humides",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Environnement, ressources naturelles et énergie"]
+      },
+      {
+        "name": "title",
+        "data": ["Milieux humides"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/6aad129f-175a-4c95-aa9e-a8e8f6531bd7/resource/1ba5cb02-9374-453f-9c1f-f3c7bf4cbd9d/download/milieux-humides.geojson",
+          "https://donnees.montreal.ca/dataset/6aad129f-175a-4c95-aa9e-a8e8f6531bd7/resource/e5a81d88-7e2e-4ec1-bcad-2fdecbbc385e/download/milieux-humides.zip"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/applicateurs-commerciaux-pesticides-titulaires-permis",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Environnement, ressources naturelles et énergie"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Applicateurs commerciaux de pesticides titulaires d'un permis annuel"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/c2a4c800-e62e-4e62-b133-53542928b571/resource/80db012c-7394-4d49-bd3f-3a87838f191d/download/applicateurs-commerciaux-pesticides-titulaires-permis-2023.csv",
+          "https://donnees.montreal.ca/dataset/c2a4c800-e62e-4e62-b133-53542928b571/resource/5260e22a-e0c5-4a58-83c3-a0c81556b5e3/download/applicateurs-commerciaux-pesticides-titulaires-permis-2022.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/matieres-residuelles-bilan-massique",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Environnement, ressources naturelles et énergie"]
+      },
+      {
+        "name": "title",
+        "data": ["Matières résiduelles - bilan massique"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/5b5356e9-21fe-437a-ac74-995b09dc67c6/resource/1341d644-9dd4-4ade-b2b1-9cec53b7beec/download/matieres-residuelles-bilan-massique.csv",
+          "https://donnees.montreal.ca/dataset/5b5356e9-21fe-437a-ac74-995b09dc67c6/resource/0b70a41d-61c9-451a-8fed-1100dac16c09/download/definition-matiere-residuelle.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/debordement",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Environnement, ressources naturelles et énergie"]
+      },
+      {
+        "name": "title",
+        "data": ["Débordements"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/17ec5343-6d39-45b8-9ce1-e76843daaaa4/resource/9e70ec15-b527-4a82-84d8-74df491ebf10/download/debordement2020.csv",
+          "https://donnees.montreal.ca/dataset/17ec5343-6d39-45b8-9ce1-e76843daaaa4/resource/674d0872-6327-48c7-9648-85a83d96bc36/download/debordement2019.csv",
+          "https://donnees.montreal.ca/dataset/17ec5343-6d39-45b8-9ce1-e76843daaaa4/resource/48aada2a-5dd0-4460-b253-cd88209cc434/download/debordements2018.csv",
+          "https://donnees.montreal.ca/dataset/17ec5343-6d39-45b8-9ce1-e76843daaaa4/resource/fed0ee5a-4d8f-46d5-bc08-b66c3c6c0d53/download/debordements2017.csv",
+          "https://donnees.montreal.ca/dataset/17ec5343-6d39-45b8-9ce1-e76843daaaa4/resource/0bb6a95a-a34a-4932-84cc-8bcf70f06fe2/download/datasurverses2016.xls",
+          "https://donnees.montreal.ca/dataset/17ec5343-6d39-45b8-9ce1-e76843daaaa4/resource/7385fe8c-e51c-4317-b3a2-3d9a9dcdb1bb/download/surverses20132015.xls"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/rsqa-polluants-metaux",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Environnement, ressources naturelles et énergie"]
+      },
+      {
+        "name": "title",
+        "data": ["RSQA - Polluants métaux"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/single/?appid=42c3e920-fa14-46c3-ada7-6e48efbe82f6&sheet=9e5ce17b-d237-47f6-987a-1c42c0279c92&opt=ctxmenu,currsel",
+          "https://donnees.montreal.ca/dataset/072fff9d-fba4-4837-9837-7434fbf3c9e3/resource/efcb88ab-f179-45ec-bc58-51b352ceb31c/download/rsqa-polluants-metaux.csv",
+          "https://donnees.montreal.ca/dataset/072fff9d-fba4-4837-9837-7434fbf3c9e3/resource/4dc018ab-5f95-4bb7-9f8e-6345f3b85224/download/rsqa-polluants-metaux-2019.csv",
+          "https://donnees.montreal.ca/dataset/072fff9d-fba4-4837-9837-7434fbf3c9e3/resource/7bda623f-46b6-4c50-bb78-0da187e4cc9c/download/rsqa-polluants-metaux-2018.csv",
+          "https://donnees.montreal.ca/dataset/072fff9d-fba4-4837-9837-7434fbf3c9e3/resource/66d39ea2-5da7-4efb-894a-59bddba7734f/download/rsqa-polluants-metaux-2013.csv",
+          "https://donnees.montreal.ca/dataset/072fff9d-fba4-4837-9837-7434fbf3c9e3/resource/7c11dee3-cb47-4b60-a956-5c265d69f5d6/download/rsqa-polluants-metaux-2008.csv",
+          "https://donnees.montreal.ca/dataset/072fff9d-fba4-4837-9837-7434fbf3c9e3/resource/dc6a176e-3b99-4f8d-b160-ec685d358669/download/rsqa-polluants-metaux-2003.csv",
+          "https://donnees.montreal.ca/dataset/072fff9d-fba4-4837-9837-7434fbf3c9e3/resource/76342977-8a47-4ef7-968f-0dc999840d4f/download/document-informatif-arsenic.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/rsqa-polluants-gazeux",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Environnement, ressources naturelles et énergie"]
+      },
+      {
+        "name": "title",
+        "data": ["RSQA - Multi-Polluants (en continu)"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/a2eea289-f9b1-4e51-a6fc-3299aa8f2ba7/resource/f46d6b64-f1de-48ef-b101-77a9eead264d/download/rsqa-multi-polluants2022.csv",
+          "https://donnees.montreal.ca/dataset/a2eea289-f9b1-4e51-a6fc-3299aa8f2ba7/resource/ca30e082-90ad-4ce2-806c-7f78d3be74c9/download/rsqa-multi-polluants2021.csv",
+          "https://donnees.montreal.ca/dataset/a2eea289-f9b1-4e51-a6fc-3299aa8f2ba7/resource/811e76d0-90cb-4703-bd6f-bd0faff81f4a/download/rsqa-multi-polluants2020.csv",
+          "https://donnees.montreal.ca/dataset/a2eea289-f9b1-4e51-a6fc-3299aa8f2ba7/resource/68da6084-de06-4514-9371-754c81453f9a/download/rsqa-multi-polluants2019.csv",
+          "https://donnees.montreal.ca/dataset/a2eea289-f9b1-4e51-a6fc-3299aa8f2ba7/resource/f2667b58-71da-4cec-a8ff-a45f028cd831/download/rsqa-multi-polluants2018.csv",
+          "https://donnees.montreal.ca/dataset/a2eea289-f9b1-4e51-a6fc-3299aa8f2ba7/resource/c07d9a0e-534f-4663-b0d5-3e5ce594834f/download/rsqa-multi-polluants2017.csv",
+          "https://donnees.montreal.ca/dataset/a2eea289-f9b1-4e51-a6fc-3299aa8f2ba7/resource/37975fc2-1867-4ab3-932a-910a387ae6e1/download/rsqa-multi-polluants2016.csv",
+          "https://donnees.montreal.ca/dataset/a2eea289-f9b1-4e51-a6fc-3299aa8f2ba7/resource/36ba06c9-0677-40a6-afb5-afb46c237f19/download/rsqa-multi-polluants2015.csv",
+          "https://donnees.montreal.ca/dataset/a2eea289-f9b1-4e51-a6fc-3299aa8f2ba7/resource/3469151f-fb84-445f-ba89-a743ebda71b1/download/rsqa-multi-polluants2010-2014.csv",
+          "https://donnees.montreal.ca/dataset/a2eea289-f9b1-4e51-a6fc-3299aa8f2ba7/resource/adbdd08f-2abb-4b2b-a8d8-25234fcbcfa7/download/rsqa-multi-polluants2005-2009.csv",
+          "https://donnees.montreal.ca/dataset/a2eea289-f9b1-4e51-a6fc-3299aa8f2ba7/resource/fd20f97b-f98d-4782-b631-dc0fdecad667/download/rsqa-multi-polluants2000-2004.csv",
+          "https://donnees.montreal.ca/dataset/a2eea289-f9b1-4e51-a6fc-3299aa8f2ba7/resource/3a8c9135-f949-4877-a1db-feaa236bf158/download/rsqa-multi-polluants1995-1999.csv",
+          "https://donnees.montreal.ca/dataset/a2eea289-f9b1-4e51-a6fc-3299aa8f2ba7/resource/ef6bb372-5595-43dc-97ae-5d887a8b5374/download/rsqa-multi-polluants1990-1994.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/rsqa-bilans-annuels-qualite-air",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Environnement, ressources naturelles et énergie"]
+      },
+      {
+        "name": "title",
+        "data": ["RSQA - Bilans annuels de la qualité de l'air"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/6005d7d0-47ae-4c23-b976-ae4acf5ab8e7/download/rsqa-mqa-smog.csv",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/1b0d6310-e36b-41e6-ba71-9aa0779fde5b/download/fr-bilan-rsqa-2022.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/32ec70dd-a671-4f89-9a2a-e16a956f5695/download/en-bilan-rsqa-2022.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/647dfdd6-b8f2-4072-b21c-38860b6896d8/download/2022-datespostes-jours-de-mqa.csv",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/dcb9e1b3-3bc2-4261-ad59-392e27e15b63/download/fr-bilan-rsqa-2021.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/2ef1fbb7-ad0d-4537-ad4c-45ae0fc9dc4c/download/en-bilan-rsqa-2021.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/c1dc5e92-a80f-4b12-afca-1d19cbdd9c4c/download/2021-datespostes-jours-de-mqa.csv",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/57e2bb96-a0b0-43f7-8ba0-df88fb59bd6d/download/fr-bilan-rsqa-2020.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/8a582791-ffdb-4d83-ace2-811119fc0d2b/download/en-bilan-rsqa-2020.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/78bcf668-f377-4178-b64a-703adaa5e1a2/download/2020-datespostes-jours-de-mqa.csv",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/14381336-517f-4a86-a9f7-9eeb08d93225/download/bilan-qualite-de-lair-fr-2019.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/5c737fe3-dc66-49b7-9a9f-a8719703a646/download/en-bilan-rsqa-2019.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/254919f6-f088-4c5d-b3ae-bc23bafd9910/download/2019-datespostes-jours-de-mqa.csv",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/47ab4da7-ef39-4be7-b1e7-28374a52b50b/download/fr-bilan-rsqa-2018.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/1901bd0a-98d0-4937-bea6-91fa5f2df616/download/en-bilan-rsqa-2018.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/66236a80-7c0b-4896-baaa-45c194a809a7/download/2018-datespostes-jours-de-mqa.csv",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/b5ee6773-3010-4076-be9d-2368fa253f13/download/fr-bilan-rsqa-2017.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/07e14795-cb10-4d24-9365-01adf5834f5e/download/en-bilan-rsqa-2017.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/7fd9286c-505a-44bd-8c0f-7347fa3a6fc7/download/2017-datespostes-jours-de-mqa.csv",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/a72ae9d0-7ce4-4876-80fd-aa0ae525b3cd/download/fr-bilan-rsqa-2016.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/1fe5ec51-fcb5-4964-9cb4-596ac83e7c29/download/en-bilan-rsqa-2016.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/750f0a21-042f-4d5b-9349-8e23cfe28bd6/download/2016-datespostes-jours-de-mqa.csv",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/f9a198e7-c231-4cca-9c23-89ba0fa8b70e/download/fr-bilan-rsqa-2015.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/490f5265-34d4-4780-b061-7cf14a28c92d/download/en-bilan-rsqa-2015.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/f0fb16d1-e445-4f5b-96f3-23a29f5372ff/download/2015-datespostes-jours-de-mqa.csv",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/44c046a7-494a-4cc0-ba54-2fce08708908/download/fr-bilan-rsqa-2014.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/b6ae15bb-952f-409b-977a-1b523a573282/download/en-bilan-rsqa-2014.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/229e0f97-3d60-455c-9b9f-e411c10d4edf/download/2014-datespostes-jours-de-mqa.csv",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/2a72307d-c57c-418b-b928-e5a836a5f157/download/fr-bilan-rsqa-2013.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/7c036777-3e03-49fd-8afb-2043cc76cc99/download/en-bilan-rsqa-2013.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/5ff65b67-de4f-43ab-8f87-0360d483d05d/download/2013-datespostes-jours-de-mqa.csv",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/22795ce5-70c0-4190-81ca-e90aed723b70/download/fr-bilan-rsqa-2012.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/84d9bb36-f3f3-44c2-beb9-82e67c9f8116/download/en-bilan-rsqa-2012.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/7b28340c-a6af-41aa-b331-8f5afbf4b59a/download/2012-datespostes-jours-de-mqa.csv",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/5366ba7e-9d18-43a3-8a99-9676b379a6e9/download/fr-bilan-rsqa-2011.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/dd7198ba-bc06-48f5-932c-ce220cd9cab2/download/en-bilan-rsqa-2011.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/b886a3ee-379a-4724-9022-69343f3e960d/download/fr-bilan-rsqa-2010.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/2652e582-6827-4fd0-a998-2a1dfd73459a/download/en-bilan-rsqa-2010.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/58cec601-4db5-4020-971f-6f00e4548b4a/download/fr-bilan-rsqa-2009.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/e4112c68-3ee2-40f3-8d52-7862cced4ff8/download/en-bilan-rsqa-2009.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/dfa5d7cf-b3c0-4a38-ad46-82472df4eed9/download/fr-bilan-rsqa-2008.pdf",
+          "https://donnees.montreal.ca/dataset/24d31955-5590-47b9-a6f4-ffdac36429ba/resource/b4589a89-211a-495b-a420-c0f0073b4327/download/en-bilan-rsqa-2008.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/vulnerabilite-changements-climatiques",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Environnement, ressources naturelles et énergie"]
+      },
+      {
+        "name": "title",
+        "data": ["Vulnérabilité aux changements climatiques"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/3603f75a-1963-4130-9fc5-ab3e7272211a/resource/6e8ef5b9-ab0e-45f8-a5ae-5f4e58db5b59/download/vulnerabilite-changements-climatiques-mailles-2022.geojson",
+          "https://donnees.montreal.ca/dataset/3603f75a-1963-4130-9fc5-ab3e7272211a/resource/e665b745-9e28-4479-bb9b-2e0975cb5d01/download/vulnerabilite-changements-climatiques-mailles-2015.geojson",
+          "https://donnees.montreal.ca/dataset/3603f75a-1963-4130-9fc5-ab3e7272211a/resource/01afc867-11f2-4a3b-b77e-d5e9ee853c87/download/vulnerabilite-crues-polygones-simplifies-2022.geojson",
+          "https://donnees.montreal.ca/dataset/3603f75a-1963-4130-9fc5-ab3e7272211a/resource/f9cb21d2-f2c9-4a5f-aced-bf80beed0519/download/vulnerabilite-crues-polygones-simplifies-2015.geojson",
+          "https://donnees.montreal.ca/dataset/3603f75a-1963-4130-9fc5-ab3e7272211a/resource/7e101279-3a7e-4127-9c34-49b83381e322/download/vulnerabilite-chaleur-polygones-simplifies-2022.geojson",
+          "https://donnees.montreal.ca/dataset/3603f75a-1963-4130-9fc5-ab3e7272211a/resource/c21c95c9-dbd3-4db6-9570-aaa17ca8e0ac/download/vulnerabilite-chaleur-polygones-simplifies-2015.geojson",
+          "https://donnees.montreal.ca/dataset/3603f75a-1963-4130-9fc5-ab3e7272211a/resource/bbaac1eb-c902-47b6-a372-2cf7a4fcb0fb/download/vulnerabilite-pluies-polygones-simplifies-2022.geojson",
+          "https://donnees.montreal.ca/dataset/3603f75a-1963-4130-9fc5-ab3e7272211a/resource/711da2e6-993e-4de8-ae50-3a176c785c4a/download/vulnerabilite-pluies-polygones-simplifies-2015.geojson",
+          "https://donnees.montreal.ca/dataset/3603f75a-1963-4130-9fc5-ab3e7272211a/resource/c33636a9-8161-47a1-8364-3de073e3693e/download/vulnerabilite-secheresses-polygones-simplifies-2022.geojson",
+          "https://donnees.montreal.ca/dataset/3603f75a-1963-4130-9fc5-ab3e7272211a/resource/e83297da-b2ae-4a3a-a8c5-16459d812b83/download/vulnerabilite-secheresses-polygones-simplifies-2015.geojson",
+          "https://donnees.montreal.ca/dataset/3603f75a-1963-4130-9fc5-ab3e7272211a/resource/cd2669bd-8129-49b7-9b8a-24b3dd4da4e4/download/vulnerabilite-tempetes-polygones-simplifies-2022.geojson",
+          "https://donnees.montreal.ca/dataset/3603f75a-1963-4130-9fc5-ab3e7272211a/resource/114df401-92e6-4a9e-a487-6da3bd989409/download/vulnerabilite-tempetes-polygones-simplifies-2015.geojson",
+          "https://donnees.montreal.ca/dataset/3603f75a-1963-4130-9fc5-ab3e7272211a/resource/20b66ccb-81c6-40db-97f3-eea51babb2ec/download/vulnerabilite-changements-climatiques-mailles-2022.zip",
+          "https://donnees.montreal.ca/dataset/3603f75a-1963-4130-9fc5-ab3e7272211a/resource/eecd8233-8d0f-4436-aa80-1bc8b01eb73f/download/vulnerabilite-changements-climatiques-mailles-2015.zip",
+          "https://donnees.montreal.ca/dataset/3603f75a-1963-4130-9fc5-ab3e7272211a/resource/8de05bac-af3c-4345-ab9f-da26795b08f5/download/vulnerabilite-crues-polygones-simplifies-2022.zip",
+          "https://donnees.montreal.ca/dataset/3603f75a-1963-4130-9fc5-ab3e7272211a/resource/cb046cb6-969b-4a94-955e-d70f257970fc/download/vulnerabilite-crues-polygones-simplifies-2015.zip",
+          "https://donnees.montreal.ca/dataset/3603f75a-1963-4130-9fc5-ab3e7272211a/resource/384e9db2-d684-4384-b23b-21e802e968cc/download/vulnerabilite-chaleur-polygones-simplifies-2022.zip",
+          "https://donnees.montreal.ca/dataset/3603f75a-1963-4130-9fc5-ab3e7272211a/resource/9c47b821-d19f-4c32-8ffe-cb5b110a4ed1/download/vulnerabilite-chaleur-polygones-simplifies-2015.zip",
+          "https://donnees.montreal.ca/dataset/3603f75a-1963-4130-9fc5-ab3e7272211a/resource/1c16f11e-136a-4146-a008-d16c60533037/download/vulnerabilite-pluies-polygones-simplifies-2022.zip",
+          "https://donnees.montreal.ca/dataset/3603f75a-1963-4130-9fc5-ab3e7272211a/resource/afa2f762-a9cc-4ea5-89e0-aea556edec1b/download/vulnerabilite-pluies-polygones-simplifies-2015.zip",
+          "https://donnees.montreal.ca/dataset/3603f75a-1963-4130-9fc5-ab3e7272211a/resource/a3146b6b-d068-419b-82ac-b4fb692f907c/download/vulnerabilite-secheresses-polygones-simplifies-2022.zip",
+          "https://donnees.montreal.ca/dataset/3603f75a-1963-4130-9fc5-ab3e7272211a/resource/f775a392-9ad7-43e1-a39c-1c38cba64d81/download/vulnerabilite-secheresses-polygones-simplifies-2015.zip",
+          "https://donnees.montreal.ca/dataset/3603f75a-1963-4130-9fc5-ab3e7272211a/resource/3c0f8ce7-62e3-4b34-8cfb-1f8ce5fd4b5b/download/vulnerabilite-tempetes-polygones-simplifies-2022.zip",
+          "https://donnees.montreal.ca/dataset/3603f75a-1963-4130-9fc5-ab3e7272211a/resource/bb1cc120-1ebc-4155-8087-f600317bd510/download/vulnerabilite-tempetes-polygones-simplifies-2015.zip"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/requete-311",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": ["Demandes de services citoyennes (Requêtes 311)"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/single/?appid=1ee80856-782c-4769-a840-59548cc0dc55&sheet=af96e37c-6144-4913-a03b-3fc405c37c4b&opt=ctxmenu,currse",
+          "https://donnees.montreal.ca/dataset/5866f832-676d-4b07-be6a-e99c21eb17e4/resource/2cfa0e06-9be4-49a6-b7f1-ee9f2363a872/download/requetes311.csv",
+          "https://donnees.montreal.ca/dataset/5866f832-676d-4b07-be6a-e99c21eb17e4/resource/dbfc05f8-b939-4639-ae52-2e77f738e43f/download/requetes311_2019-2021.csv",
+          "https://donnees.montreal.ca/dataset/5866f832-676d-4b07-be6a-e99c21eb17e4/resource/f180b33d-7525-48de-b0d1-1b8d15a958bb/download/requetes311_2017-2019.csv",
+          "https://donnees.montreal.ca/dataset/5866f832-676d-4b07-be6a-e99c21eb17e4/resource/f62595b0-b26a-4e7b-ba67-05b84521ab64/download/requetes311_2014-2016.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/reglements-municipaux",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": ["Règlements municipaux"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/f8d1c621-f784-4380-994c-97c4369bb17f/resource/5802b643-487b-49c7-955e-7d61ad38f1c8/download/reglements-municipaux.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/lieux-batiments-vocation-publique",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Agriculture et alimentation"]
+      },
+      {
+        "name": "title",
+        "data": ["Lieux et bâtiments à vocation publique"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/4731b64f-29cc-4e08-bc44-8752ae2fcafb/download/lieux-fr.csv",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/e1aa4932-b9e9-4aaf-b231-b294f5efcea3/download/lieux-fr.zip",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/2b8bf94c-6b9a-4d60-8091-5b82467a4138/download/lieux-fr.geojson",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/81080d62-5c89-41e6-a401-99f77c459594/download/lieux-en.csv",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/396b5882-45ab-40b3-a364-6a719246b30d/download/lieux-en.zip",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/c58457eb-b4e7-46c4-abce-21137839bcd8/download/lieux-en.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/programmes-subventions-destines-population",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Programmes et subventions destinés à la population et aux organismes"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/ed18ce85-dc88-4db8-94f5-75cb6001e03f/resource/5a2bef39-3b3e-4d7d-82cf-658f7821e141/download/programmes.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/solutions-en-logiciels-libres",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": ["Solutions en logiciels libres"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/30ff96f8-82f7-4528-8d52-dd1ffde5786a/resource/fc5add29-2612-474e-bb59-009f8133f1a5/download/inventaire_solutions_libres.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/liste-des-fournisseurs",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": ["Liste des fournisseurs"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/sense/app/46913a37-c4f0-4f32-8681-43c544d55109/sheet/SH01/state/analysis",
+          "https://donnees.montreal.ca/dataset/3bda8899-279a-46fc-9ad9-8dee68d05def/resource/ceee5da3-56ba-40f4-9008-8678bf4c14fe/download/listefournisseurs.csv",
+          "https://donnees.montreal.ca/dataset/3bda8899-279a-46fc-9ad9-8dee68d05def/resource/32c602ff-832b-4832-b9be-a81b3456742c/download/fournisseurscategories.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/vignettes-stationnement",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": ["Vignettes de stationnement"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/sense/app/b42de593-26dc-424f-8e96-c863dd01e0a8/sheet/de96a79a-f49b-42c7-a01a-630ecfe39322/state/analysis",
+          "https://donnees.montreal.ca/dataset/b6f070c5-2d72-4bc3-8e37-e871b40aad31/resource/e7df09fb-af5a-476f-861e-ea23777749b5/download/vignettes_stationnement.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/ensembles-de-donnees-du-portail-de-donnees-ouvertes",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": ["Liste des ensembles disponibles en données ouvertes"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/sense/app/8d9031ac-024a-4d71-99d4-2bb8cb939a54/sheet/SH01/state/analysis",
+          "https://donnees.montreal.ca/dataset/dc7aca8a-9c11-419b-8094-f0d6f359fdc0/resource/bcc0b608-2d54-4746-88b6-521023524f6e/download/do.csv",
+          "https://donnees.montreal.ca/dataset/dc7aca8a-9c11-419b-8094-f0d6f359fdc0/resource/ddce5f93-8efa-4d77-950f-d1705cf27fce/download/do.xlsx"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/limites-administratives-agglomeration",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Limites administratives de l'agglomération de Montréal (arrondissements et villes liées)"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/9797a946-9da8-41ec-8815-f6b276dec7e9/resource/6b313375-d9bc-4dc3-af8e-ceae3762ae6e/download/limites-administratives-agglomeration-nad83.geojson",
+          "https://donnees.montreal.ca/dataset/9797a946-9da8-41ec-8815-f6b276dec7e9/resource/e8bea324-044c-4544-bbd1-2e0d08a24216/download/limites-administratives-agglomeration-nad83.zip",
+          "https://donnees.montreal.ca/dataset/9797a946-9da8-41ec-8815-f6b276dec7e9/resource/e18bfd07-edc8-4ce8-8a5a-3b617662a794/download/limites-administratives-agglomeration.geojson",
+          "https://donnees.montreal.ca/dataset/9797a946-9da8-41ec-8815-f6b276dec7e9/resource/93385165-d849-418f-aaa3-0497ed9e4702/download/limites-administratives-agglomeration.zip"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/unites-evaluation-fonciere",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": ["Unités d'évaluation foncière"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/4ad6baea-4d2c-460f-a8bf-5d000db498f7/resource/2b9dfc3d-91d3-48de-b32c-a2a6d9417079/download/uniteevaluationfonciere.csv",
+          "https://donnees.montreal.ca/dataset/4ad6baea-4d2c-460f-a8bf-5d000db498f7/resource/866a3dbc-8b59-48ff-866d-f2f9d3bbee9d/download/uniteevaluationfonciere.geojson.zip",
+          "https://donnees.montreal.ca/dataset/4ad6baea-4d2c-460f-a8bf-5d000db498f7/resource/43c2cccf-a439-429b-a3c8-5d4ebce53e1b/download/uniteevaluationfonciere.zip"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/frequentation-du-portail-de-donnees-ouvertes",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": ["Fréquentation du portail de données ouvertes"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/single/?appid=ee15f82e-2eca-423b-bef7-ae7404fb6fc4&sheet=SH01&opt=ctxmenu,currsel",
+          "https://donnees.montreal.ca/dataset/b9871478-b6e9-44a7-8d4e-0a5eb9e5c36f/resource/f859c1c0-60bb-41d2-b0a8-bd7ab68aeb3a/download/frequentation-portail-donnees-ouvertes.csv",
+          "https://donnees.montreal.ca/dataset/b9871478-b6e9-44a7-8d4e-0a5eb9e5c36f/resource/c0f468bc-2e31-4cb3-960c-4fc0262ef5e1/download/frequentation-portail-donnees-ouvertes-historique.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/offres-demploi-et-postulation",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": ["Offres d'emploi et postulation"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/sense/app/eeb0c570-fedc-4906-b73d-33b7a6bfd88b/sheet/SH01/state/analysis",
+          "https://donnees.montreal.ca/dataset/bc95ff0e-255f-4db5-a47d-f46f57ee4e8c/resource/f719b197-b851-40a9-b35f-827f3008c1c9/download/ouverture-de-donnees_affichages_postulants.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/videodiffusion-seances-instances-politiques",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": ["Vidéos des séances des instances décisionnelles"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/single/?appid=38721601-26ca-40b5-be81-ca848f31a5be&sheet=12b18c4a-b362-46ab-b717-22a478298dee&opt=ctxmenu,currsel",
+          "https://donnees.montreal.ca/dataset/f9756c63-10cf-4e21-af29-e1d09d366d28/resource/170464b4-e31e-4666-9629-a3c82fea0ae1/download/conseil-agglomeration.csv",
+          "https://donnees.montreal.ca/dataset/f9756c63-10cf-4e21-af29-e1d09d366d28/resource/7df67add-f218-4a42-aebd-81233231d960/download/conseil-agglomeration-videos-archives.csv",
+          "https://donnees.montreal.ca/dataset/f9756c63-10cf-4e21-af29-e1d09d366d28/resource/fb1ce005-2267-4ffd-8ac7-de4bc252ea12/download/comite-executif.csv",
+          "https://donnees.montreal.ca/dataset/f9756c63-10cf-4e21-af29-e1d09d366d28/resource/07dc2dc3-371a-4336-964a-8d4280e28927/download/comite-executif-videos-archives.csv",
+          "https://donnees.montreal.ca/dataset/f9756c63-10cf-4e21-af29-e1d09d366d28/resource/4451abba-bfd6-4760-9e3d-89e163cdc52a/download/conseil-municipal.csv",
+          "https://donnees.montreal.ca/dataset/f9756c63-10cf-4e21-af29-e1d09d366d28/resource/b8468ad8-a011-4044-9157-2d119048f96b/download/conseil-municipal-videos-archives.csv",
+          "https://donnees.montreal.ca/dataset/f9756c63-10cf-4e21-af29-e1d09d366d28/resource/67459264-cebe-4c7c-82c7-f263922ebfb7/download/commission.csv",
+          "https://donnees.montreal.ca/dataset/f9756c63-10cf-4e21-af29-e1d09d366d28/resource/83090d3c-7f17-49c6-affa-4441bc7a4aff/download/commissions-permanentes-videos-archives.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/contrats-conseils-d-arrondissement",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": ["Contrats – Conseils d'arrondissement"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/sense/app/8c88beb1-3519-41d2-81d7-907830456635/sheet/SH01/state/analysis",
+          "https://donnees.montreal.ca/dataset/60b9662a-17c3-42f0-9ff1-c39bc9026df2/resource/941c7e36-a831-4228-b737-21174c6a1864/download/contratsconseilsarrondissements.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/logiciels-libres-entretenus-par-la-ville-de-montreal",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": ["Logiciels libres entretenus par la Ville de Montréal"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/341c17cd-229c-4ad0-86c9-7f4aeb92d8bd/resource/1eeabbbb-58e7-46d3-a1a0-7f0548e17767/download/liste-des-logiciels-libres-entretenus-par-la-ville-de-montreal.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/diffusion-proactive-acces-information",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Diffusion proactive - Documents remis des demandes d’accès à l’information"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/single/?appid=edf0ae8a-b7e7-4ccd-a770-47fcbc45c38f&sheet=e7b4b17a-0d2d-4d7c-9935-be20b0d92aef&theme=horizon&opt=ctxmenu,currsel",
+          "https://donnees.montreal.ca/dataset/ea56a101-7e78-4833-91dd-689bd4f8f9a3/resource/4e46be5d-32e3-43df-b748-26268b062c66/download/inventaire-demandes-daccess-linformation.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/resultats-sommaires",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": ["Élections municipales - Résultats sommaires"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/764944bf-1e3b-4c69-bb7b-b33311142982/resource/3f5f50a1-108b-4a07-a466-aba8656e8368/download/resultats-election-2013-finaux-sommaires.xml",
+          "https://donnees.montreal.ca/dataset/764944bf-1e3b-4c69-bb7b-b33311142982/resource/f1a9537f-a1e7-406e-b587-424e72796055/download/elections-2013-resultats-sommaires-specifications.zip",
+          "https://donnees.montreal.ca/dataset/764944bf-1e3b-4c69-bb7b-b33311142982/resource/7d165e6e-2edd-41d9-bee1-2edd969b0959/download/electiongene-2009-distributiondesvotes.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/resultats-detailles",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": ["Élections municipales - Résultats détaillés"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/single/?appid=6ba30fd4-32d3-470b-93b1-a615ad8c12b8&sheet=2825ca64-5bd2-4736-bcf6-19813ac17ae6&opt=ctxmenu,currsel",
+          "https://donnees.montreal.ca/dataset/97e6096d-b22e-453c-98e9-1a55e79cc311/resource/e9ef328b-226f-4498-983e-7609767555b2/download/resultats-detailles-2021.csv",
+          "https://donnees.montreal.ca/dataset/97e6096d-b22e-453c-98e9-1a55e79cc311/resource/5a691a7c-0a6e-4a48-a6b9-d4b72d01fbdd/download/resultats-detailles-2017.csv",
+          "https://donnees.montreal.ca/dataset/97e6096d-b22e-453c-98e9-1a55e79cc311/resource/2974f587-326a-41e1-80e0-de1e145df8ed/download/resultats-election-2013-finaux-detailles-csv.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/ententes-achats-accordees",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Ententes d'achats accordées par le service de l'approvisionnement depuis 2016"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/2aa41a43-a289-411c-a742-8cfd342ec412/resource/2044f76b-6d76-4f07-acdc-648ae517b4bb/download/ententes-achats-accordees.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/reddition-comptes-financiere",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": ["Reddition de comptes financière"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/79552a7f-8688-4b3c-9dbc-6efdd7a3831e/resource/0c49009d-5ee8-4aba-a20d-89ca6a3071a8/download/reddition-comptes-financiere-2022.xlsx",
+          "https://donnees.montreal.ca/dataset/79552a7f-8688-4b3c-9dbc-6efdd7a3831e/resource/cc047e60-543f-46d9-bb95-50fd6dcbbbe8/download/reddition-comptes-financiere-2021.xlsx",
+          "https://donnees.montreal.ca/dataset/79552a7f-8688-4b3c-9dbc-6efdd7a3831e/resource/8842ac2d-21ed-4eaa-955d-4b822616599b/download/reddition-comptes-financiere-2020.xlsx",
+          "https://donnees.montreal.ca/dataset/79552a7f-8688-4b3c-9dbc-6efdd7a3831e/resource/0f0529f3-2a61-4796-998f-6f4e67646ad2/download/reddition-comptes-financiere-2019.xlsx",
+          "https://donnees.montreal.ca/dataset/79552a7f-8688-4b3c-9dbc-6efdd7a3831e/resource/9d0aaf73-1b01-44ca-9335-cfb0fc8ceb82/download/reddition-comptes-financiere-2018.xlsx"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/depistage-entrees-service-plomb",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Résultats du dépistage des entrées de service en plomb réalisé par un Palintest"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://services.montreal.ca/presence-plomb/",
+          "https://donnees.montreal.ca/dataset/0b871076-93d3-4247-9f04-21495fd2bee4/resource/dd23658a-23d3-428e-adda-f76b62cbd144/download/resultats-depistage-entrees-service-plomb.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/panneaux-de-signalisation",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Signalisation routière (excluant le stationnement)"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/c5bf5e9c-528b-4c28-b52f-218215992e35/resource/1f610cd7-c85d-46d8-9c98-86e3f550ee4c/download/signalisation_excluant_stationnement.csv",
+          "https://donnees.montreal.ca/dataset/c5bf5e9c-528b-4c28-b52f-218215992e35/resource/b5df24e6-7752-4cc6-afa8-04ab5c7e1b19/download/signalisation_excluant_stationnement.geojson",
+          "https://donnees.montreal.ca/dataset/c5bf5e9c-528b-4c28-b52f-218215992e35/resource/bf6d48ff-0188-4f12-9394-29137a91606d/download/signalisation_excluant_stationnement.zip",
+          "https://donnees.montreal.ca/dataset/c5bf5e9c-528b-4c28-b52f-218215992e35/resource/a86dc111-a21d-4e54-8835-4b5095d12969/download/signalisation-codification-rpa.csv",
+          "https://donnees.montreal.ca/dataset/c5bf5e9c-528b-4c28-b52f-218215992e35/resource/0795f422-b53b-41ca-89be-abc1069a88c9/download/signalisation-codification-rpa.json",
+          "https://donnees.montreal.ca/dataset/c5bf5e9c-528b-4c28-b52f-218215992e35/resource/e110923d-b420-4169-bc8a-c3281e9244bd/download/signalisation-codification-rtp.csv",
+          "https://donnees.montreal.ca/dataset/c5bf5e9c-528b-4c28-b52f-218215992e35/resource/dcdf4fb7-09d0-4674-a393-fe1cb1373d92/download/signalisation-codification-rtp.json",
+          "https://donnees.montreal.ca/dataset/c5bf5e9c-528b-4c28-b52f-218215992e35/resource/ad1c061e-2cd2-4e11-8b2b-5c331025afb9/download/signalisationimagepanneau.zip",
+          "https://donnees.montreal.ca/dataset/c5bf5e9c-528b-4c28-b52f-218215992e35/resource/21c0eb84-6c1c-4537-b3e6-aee7b9be65a4/download/0-dec.-2015-catalogue-de-signalisation.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/poteaux-signalisation",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Poteaux de signalisation"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/59511eff-8924-4436-973d-f26c261d680e/resource/091a3d3a-716c-44d7-b1c0-3144d6953f66/download/poteaux-de-signalisation.csv",
+          "https://donnees.montreal.ca/dataset/59511eff-8924-4436-973d-f26c261d680e/resource/d07580c3-292e-49d1-a30e-9a83a98c77a2/download/poteaux-de-signalisation.geojson",
+          "https://donnees.montreal.ca/dataset/59511eff-8924-4436-973d-f26c261d680e/resource/ec0255a2-0fcb-4149-8579-1b55ae13a836/download/poteaux-de-signalisation.zip"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/lieux-batiments-vocation-publique",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Agriculture et alimentation"]
+      },
+      {
+        "name": "title",
+        "data": ["Lieux et bâtiments à vocation publique"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/4731b64f-29cc-4e08-bc44-8752ae2fcafb/download/lieux-fr.csv",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/e1aa4932-b9e9-4aaf-b231-b294f5efcea3/download/lieux-fr.zip",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/2b8bf94c-6b9a-4d60-8091-5b82467a4138/download/lieux-fr.geojson",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/81080d62-5c89-41e6-a401-99f77c459594/download/lieux-en.csv",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/396b5882-45ab-40b3-a364-6a719246b30d/download/lieux-en.zip",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/c58457eb-b4e7-46c4-abce-21137839bcd8/download/lieux-en.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/lieux-publics-climatises",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Lieux publics climatisés"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/c7ed69e0-a265-4e8b-a1fc-cf4aa8de4a6b/resource/5c019a84-5305-46c2-bd3b-41620e9e4737/download/lieux_publics_climatises.csv",
+          "https://donnees.montreal.ca/dataset/c7ed69e0-a265-4e8b-a1fc-cf4aa8de4a6b/resource/8103851f-1887-4ff3-b0c0-9c2a53f3af08/download/lieux_publics_climatises.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/geobase-noeud",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Géobase - noeuds"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/9bf7932b-2723-4a74-9c34-eb868a0c692f/resource/76d89dae-7596-4b3f-af25-6ad9a3c36beb/download/noeud.csv",
+          "https://donnees.montreal.ca/dataset/9bf7932b-2723-4a74-9c34-eb868a0c692f/resource/0bb23d95-94f3-407c-a8ba-802365940778/download/noeud.json",
+          "https://donnees.montreal.ca/dataset/9bf7932b-2723-4a74-9c34-eb868a0c692f/resource/a9481806-0abd-4ceb-9b35-5f7e210d4f53/download/noeud.zip"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/remorquages-de-vehicules-genants",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Remorquages de véhicules entravant les opérations de la Ville de Montréal"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/single/?appid=0a236d40-9a01-46b8-9c6c-22dce7865179&sheet=f8b1f885-6c7f-47c3-8e27-b966673c3980&opt=ctxmenu,currsel",
+          "https://donnees.montreal.ca/dataset/1d785ef8-f883-47b5-bac5-dce1cdddb1b0/resource/65dd096f-7296-40e8-8cfe-e26b928bcce5/download/remorquages.csv",
+          "https://donnees.montreal.ca/dataset/1d785ef8-f883-47b5-bac5-dce1cdddb1b0/resource/2edcdba3-ba83-470f-a441-01fd72dd965e/download/remorquages2005-2015.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/stationnement-sur-rue-signalisation-courant",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Signalisation (stationnement sur rue)"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/8ac6dd33-b0d3-4eab-a334-5a6283eb7940/resource/7f1d4ae9-1a12-46d7-953e-6b9c18c78680/download/signalisation_stationnement.csv",
+          "https://donnees.montreal.ca/dataset/8ac6dd33-b0d3-4eab-a334-5a6283eb7940/resource/52cecff0-2644-4258-a2d1-0c4b3b116117/download/signalisation_stationnement.geojson",
+          "https://donnees.montreal.ca/dataset/8ac6dd33-b0d3-4eab-a334-5a6283eb7940/resource/6efbe51d-141f-4a78-b6ab-5927f0789fed/download/signalisation_stationnement.zip",
+          "https://donnees.montreal.ca/dataset/8ac6dd33-b0d3-4eab-a334-5a6283eb7940/resource/1baac760-4311-4b4f-8996-db93d348cc24/download/signalisation-codification-rpa.csv",
+          "https://data.montreal.ca/dataset/c5bf5e9c-528b-4c28-b52f-218215992e35/resource/0795f422-b53b-41ca-89be-abc1069a88c9/download/signalisation-codification-rpa.json",
+          "https://donnees.montreal.ca/dataset/8ac6dd33-b0d3-4eab-a334-5a6283eb7940/resource/5b381343-121d-478e-8328-7698063d1f57/download/signalisation-codification-rtp.csv",
+          "https://data.montreal.ca/dataset/c5bf5e9c-528b-4c28-b52f-218215992e35/resource/dcdf4fb7-09d0-4674-a393-fe1cb1373d92/download/signalisation-codification-rtp.json",
+          "https://donnees.montreal.ca/dataset/8ac6dd33-b0d3-4eab-a334-5a6283eb7940/resource/3f678581-bd66-433f-999e-47a1b067c799/download/signalisationimagepanneau.zip",
+          "https://donnees.montreal.ca/dataset/8ac6dd33-b0d3-4eab-a334-5a6283eb7940/resource/89ed060b-6445-415f-b449-b433f207fb80/download/0-dec.-2015-catalogue-de-signalisation.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/geobase-gestion-troncon",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Géobase - gestion tronçons"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/72928aba-53aa-4480-98ca-9a430ba331d8/resource/180852c3-fc1b-43bf-b86d-20c0e08caab5/download/gestiontroncon.csv",
+          "https://donnees.montreal.ca/dataset/72928aba-53aa-4480-98ca-9a430ba331d8/resource/1b721a23-388a-47be-860e-2634193e1988/download/gestiontroncon.json",
+          "https://donnees.montreal.ca/dataset/72928aba-53aa-4480-98ca-9a430ba331d8/resource/483f98a1-aa93-4218-9329-28383ac10781/download/gestiontroncon.zip"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/geobase-double",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Géobase double - côtés de rue du réseau routier"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/88493b16-220f-4709-b57b-1ea57c5ba405/resource/16f7fa0a-9ce6-4b29-a7fc-00842c593927/download/gbdouble.json",
+          "https://donnees.montreal.ca/dataset/88493b16-220f-4709-b57b-1ea57c5ba405/resource/9acb6c57-87f8-4035-bcf3-98ae3f48e76e/download/gbdouble.zip",
+          "https://donnees.montreal.ca/dataset/88493b16-220f-4709-b57b-1ea57c5ba405/resource/2f1717e9-0141-48ef-8943-ea348373667f/download/gbdouble.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/geobase-troncon-detruit",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Géobase - tronçons détruits"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/a1f4496b-4f17-47e1-9156-1e536f58a082/resource/54cf8467-f615-496e-9883-1b162e1cb088/download/troncondetruit.csv",
+          "https://donnees.montreal.ca/dataset/a1f4496b-4f17-47e1-9156-1e536f58a082/resource/c1a42b41-8d8c-4fbd-9f99-adbd76dcd2bd/download/troncondetruit.json",
+          "https://donnees.montreal.ca/dataset/a1f4496b-4f17-47e1-9156-1e536f58a082/resource/1d987874-49ee-49ec-bc35-f7f92a4a3e03/download/troncondetruit.zip"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/geobase-pole",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Géobase - pôles"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/2a3fac45-2345-4f7d-9001-53994d6f569c/resource/efc1c061-a05d-43ed-86f6-58cbcd33e283/download/pole.json",
+          "https://donnees.montreal.ca/dataset/2a3fac45-2345-4f7d-9001-53994d6f569c/resource/7bc95e19-8930-4d8c-86cd-0c8c54d99aed/download/pole.zip",
+          "https://donnees.montreal.ca/dataset/2a3fac45-2345-4f7d-9001-53994d6f569c/resource/79fa1da4-0355-4ecf-8306-31361bf101c2/download/pole.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/geobase",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Géobase - réseau routier"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/984f7a68-ab34-4092-9204-4bdfcca767c5/resource/cdf491fa-bf3d-4eb1-8692-c9aa1df462cd/download/geobase.csv",
+          "https://donnees.montreal.ca/dataset/984f7a68-ab34-4092-9204-4bdfcca767c5/resource/70c1f8c7-91a0-4553-b602-89c3edb959b5/download/geobase.zip",
+          "https://donnees.montreal.ca/dataset/984f7a68-ab34-4092-9204-4bdfcca767c5/resource/9d3d60d8-4e7f-493e-8d6a-dcd040319d8d/download/geobase.json"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/permis-construction",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Permis de construction, transformation et démolition"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://qlik.beta.montreal.ca/pub/single/?appid=e44e64f6-1883-49cb-a3ec-a551855882b2&sheet=af96e37c-6144-4913-a03b-3fc405c37c4b&opt=ctxmenu,currsel",
+          "https://donnees.montreal.ca/dataset/d90eaf1b-2de8-43f0-923a-27a620ecdf41/resource/5232a72d-235a-48eb-ae20-bb9d501300ad/download/permis-construction.csv",
+          "https://donnees.montreal.ca/dataset/d90eaf1b-2de8-43f0-923a-27a620ecdf41/resource/311f92e1-224f-43e5-83d3-f578ba23d104/download/permis-construction.geojson",
+          "https://donnees.montreal.ca/dataset/d90eaf1b-2de8-43f0-923a-27a620ecdf41/resource/9c0569b0-1c40-4bf9-abef-add2771f3e21/download/permis-construction.zip",
+          "https://donnees.montreal.ca/dataset/d90eaf1b-2de8-43f0-923a-27a620ecdf41/resource/6f875764-9353-43ee-9b7e-0a6abb647c7c/download/statistiques-permis-de-construction.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/casernes-pompiers",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Casernes de pompiers sur l’île de Montréal"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/c69e78c6-e454-4bd9-9778-e4b0eaf8105b/resource/5b9c0e1d-3f75-4e98-b53d-6e979c18cc98/download/casernes.csv",
+          "https://donnees.montreal.ca/dataset/c69e78c6-e454-4bd9-9778-e4b0eaf8105b/resource/d12b4ec0-cdd8-4bd5-b2f0-de1cbc902173/download/casernes.zip",
+          "https://donnees.montreal.ca/dataset/c69e78c6-e454-4bd9-9778-e4b0eaf8105b/resource/beff8ce0-7a61-4a82-95b5-96d89bafa671/download/casernes.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/condition-chaussees-reseau-cyclable",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Indicateurs de condition des chaussées du réseau cyclable"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/77fe63be-109f-42b0-9e4c-3892621dcd72/resource/62e2d057-527c-4690-ab8d-6b68d6d06e0b/download/auscultation_reseau_cyclable_2020.gpkg"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/puisards-egouts",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Puisards d'égouts"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/dd268424-b6c0-49fa-b112-2adbbb01a762/resource/39316ed3-0060-4975-ae82-482919dcc7c3/download/ego_puisard_p.csv",
+          "https://donnees.montreal.ca/dataset/dd268424-b6c0-49fa-b112-2adbbb01a762/resource/82fe8d34-7991-4fd0-810f-bcde31a97d09/download/ego_puisard_p.zip",
+          "https://donnees.montreal.ca/dataset/dd268424-b6c0-49fa-b112-2adbbb01a762/resource/c801eb19-9ea4-49a3-a779-5631c6e2810a/download/ego_puisard_p.json"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/regards-egouts",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Regards d'égouts"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/353b6c56-7330-4713-91dd-2234945a46ce/resource/84c8b4b5-f5d5-42dd-b7ec-858b6ffa679c/download/ego_regard_p.json",
+          "https://donnees.montreal.ca/dataset/353b6c56-7330-4713-91dd-2234945a46ce/resource/bdc33a51-10be-4d82-9494-534ef7f4a2c7/download/ego_regard_p.zip",
+          "https://donnees.montreal.ca/dataset/353b6c56-7330-4713-91dd-2234945a46ce/resource/b9e0e26b-2f0f-4ab6-a170-449b0166bf6f/download/ego_regard_p.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/geolocalisation-des-bornes-fontaines",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Bornes d'incendie"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/cb4de65e-138b-4936-9d5c-2d9a0bc9b4ce/resource/434e80ca-4fec-4b38-a6b5-070a06757233/download/aqu_borneincendie_p.json",
+          "https://donnees.montreal.ca/dataset/cb4de65e-138b-4936-9d5c-2d9a0bc9b4ce/resource/5f774e62-69db-4fa0-a139-49dabf6266f6/download/aqu_borneincendie_p.zip",
+          "https://donnees.montreal.ca/dataset/cb4de65e-138b-4936-9d5c-2d9a0bc9b4ce/resource/75d2f1e2-b88d-4784-87df-5e7fc1e491a9/download/aqu_borneincendie_p.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/feux-pietons",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Feux de circulation – feux pour piétons"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/9a42fb1d-7656-4839-8ac6-0f5d2b519503/resource/d43d1887-ff76-4b39-b961-6150535eb52c/download/feux-pietons.csv",
+          "https://donnees.montreal.ca/dataset/9a42fb1d-7656-4839-8ac6-0f5d2b519503/resource/0459cb20-d766-4358-8be3-9860f771c1e8/download/feux-pietons.geojson",
+          "https://donnees.montreal.ca/dataset/9a42fb1d-7656-4839-8ac6-0f5d2b519503/resource/66ba081b-5c0c-4867-bf48-8ebfc26bb8ff/download/feux-pietons.zip",
+          "https://donnees.montreal.ca/dataset/9a42fb1d-7656-4839-8ac6-0f5d2b519503/resource/0436805f-6149-40e7-ac7a-f3c33e54e65d/download/cusersuroyyandesktopdictionnairefeuxcirculation.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/avis-deterioration",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Loi, justice et sécurité publique"]
+      },
+      {
+        "name": "title",
+        "data": ["Avis de détérioration"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/single/?appid=04961305-168a-4d5b-af02-812e9dab714f&sheet=c5d9d2a6-affa-454f-bbe6-f229c6964777&theme=horizon&opt=ctxmenu,currsel",
+          "https://donnees.montreal.ca/dataset/192a1447-7fdc-4e65-8e7b-eb6162656448/resource/a64d54b0-6c20-4d5d-a9b8-3593170e2a9e/download/avis_deterioration.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/inspections-salubrite",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Santé"]
+      },
+      {
+        "name": "title",
+        "data": ["Inspections de salubrité du Service de l'habitation"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/single/?appid=7cfbfde4-68ed-48bc-becc-c1a1f39af079&sheet=21798e12-d5b3-410f-91ca-4f9fcfa05b5d&opt=ctxmenu,currsel",
+          "https://donnees.montreal.ca/dataset/e166ecc3-f139-4c77-9855-0e0d43865397/resource/ed5bae4e-9136-4218-a82c-1e3d18bd056e/download/inspections-salubrite.csv",
+          "https://donnees.montreal.ca/dataset/e166ecc3-f139-4c77-9855-0e0d43865397/resource/1d0df764-3936-45fe-b6ca-46a75abed9d2/download/inspections-salubrite.geojson",
+          "https://donnees.montreal.ca/dataset/e166ecc3-f139-4c77-9855-0e0d43865397/resource/1b9a1e0e-728a-435e-8098-e8453086709d/download/inspections-salubrite.zip"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/indicateur-priorite-inspection",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Santé"]
+      },
+      {
+        "name": "title",
+        "data": ["Indicateur de priorité d'inspection"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/0e93181f-79d4-4dfa-ba15-53c1807c7191/resource/556db0d0-ba81-4937-9361-0288ef211e2a/download/indicateurs_priorite_inspection.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/declarations-exterminations-punaises-de-lit",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Santé"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Déclarations des exterminations de punaises de lit par des gestionnaires de parasites"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/sense/app/3107bd97-6158-41ec-8fb8-abbcc49406b4/sheet/c9704315-0f5d-44df-81f4-9aeeed51b752/state/analysis",
+          "https://donnees.montreal.ca/dataset/49ff9fe4-eb30-4c1a-a30a-fca82d4f5c2f/resource/6173de60-c2da-4d63-bc75-0607cb8dcb74/download/declarations-exterminations-punaises-de-lit.csv",
+          "https://donnees.montreal.ca/dataset/49ff9fe4-eb30-4c1a-a30a-fca82d4f5c2f/resource/abf15ce4-0702-4581-aec8-2372dd45ddca/download/declarations-exterminations-punaises-de-lit.zip",
+          "https://donnees.montreal.ca/dataset/49ff9fe4-eb30-4c1a-a30a-fca82d4f5c2f/resource/5a54bddd-7046-45da-83cb-90ee71edce91/download/declarations-exterminations-punaises-de-lit.geojson",
+          "https://donnees.montreal.ca/dataset/49ff9fe4-eb30-4c1a-a30a-fca82d4f5c2f/resource/81a05c27-2563-4cf5-9c40-ffcc053e05de/download/nombre-logements-traites-par-quartier.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/liste-central-condamnations-salubrite-logements",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Santé"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Contrevenants condamnés - salubrité, entretien et sécurité des logements"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/5c627001-5945-4769-bd8a-41a1cb6065df/resource/f270cb02-ca30-4b3b-96eb-f0dbdbc50ea7/download/contrevenants_condamnes.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/reglements-municipaux",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": ["Règlements municipaux"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/f8d1c621-f784-4380-994c-97c4369bb17f/resource/5802b643-487b-49c7-955e-7d61ad38f1c8/download/reglements-municipaux.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/ententes-reglement-metropole-mixte",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Politiques sociales"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Ententes conclues dans le cadre du Règlement pour une métropole mixte"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/90e7462a-7db6-466e-930d-82d215b2626d/resource/1b5a181d-11d4-4491-b3fa-b6e5264a2f47/download/ententes-conclues-rmm.csv",
+          "https://donnees.montreal.ca/dataset/90e7462a-7db6-466e-930d-82d215b2626d/resource/ea4978cf-346a-4ac0-b825-77a636255b8b/download/ententes-conclues-rmm.zip",
+          "https://donnees.montreal.ca/dataset/90e7462a-7db6-466e-930d-82d215b2626d/resource/a3c56c19-2205-4ef6-9e25-c851c904ad4b/download/ententes-conclues-rmm.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/programmes-subventions-destines-population",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Programmes et subventions destinés à la population et aux organismes"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/ed18ce85-dc88-4db8-94f5-75cb6001e03f/resource/5a2bef39-3b3e-4d7d-82cf-658f7821e141/download/programmes.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/indice-equite-milieux-vie",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Politiques sociales"]
+      },
+      {
+        "name": "title",
+        "data": ["Indice d'équité des milieux de vie"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/1c1a9b72-efaa-4484-9b19-2ab9a5561cfa/resource/5ca26973-7df6-472e-9bc0-5213a2445082/download/indice-equite-milieux-vie.csv",
+          "https://donnees.montreal.ca/dataset/1c1a9b72-efaa-4484-9b19-2ab9a5561cfa/resource/56b679de-e97f-483d-9f43-1dff7eb66679/download/indice-equite-milieux-vie.zip",
+          "https://donnees.montreal.ca/dataset/1c1a9b72-efaa-4484-9b19-2ab9a5561cfa/resource/955ac3a9-8457-4a4e-9d2e-13432dd14f03/download/indice-equite-milieux-vie.geojson",
+          "https://donnees.montreal.ca/dataset/1c1a9b72-efaa-4484-9b19-2ab9a5561cfa/resource/cf0dbcaf-4734-4551-81e2-6b8a7813ca41/download/dictionnaire-donnees-indice-equite-milieux-vie.csv",
+          "https://donnees.montreal.ca/dataset/1c1a9b72-efaa-4484-9b19-2ab9a5561cfa/resource/7754ac6b-2e97-4aa5-97e9-8ef7a38ddb03/download/rapport-methodologique.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/quartiers",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Politiques sociales"]
+      },
+      {
+        "name": "title",
+        "data": ["Quartiers de référence en habitation"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/f38c91a1-e33f-4475-a112-3b84b1c60c1e/resource/a80e611f-5336-4306-ba2a-fd657f0f00fa/download/quartierreferencehabitation.geojson",
+          "https://donnees.montreal.ca/dataset/f38c91a1-e33f-4475-a112-3b84b1c60c1e/resource/6043f2bb-d61e-4b87-9ed1-b41c350fd288/download/quartierreferencehabitation.zip",
+          "https://donnees.montreal.ca/dataset/f38c91a1-e33f-4475-a112-3b84b1c60c1e/resource/1c142277-53f7-4801-9d19-c54acce747d8/download/quartierreferencehabitation.csv",
+          "https://donnees.montreal.ca/dataset/f38c91a1-e33f-4475-a112-3b84b1c60c1e/resource/58ca829c-ffb6-4cb8-8582-9ff796209fd4/download/nombrelogementsquartiersreference.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/immeubles-terrains-assujettis-droit-preemption",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Politiques sociales"]
+      },
+      {
+        "name": "title",
+        "data": ["Immeubles et terrains assujettis au droit de préemption"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/ff4cfec0-34a5-474b-a53e-eb5aeffba74a/resource/dae5fa74-5ab3-4479-be6f-f4b5e29c0f6d/download/immeubles-terrains-droit-preemption.csv",
+          "https://donnees.montreal.ca/dataset/ff4cfec0-34a5-474b-a53e-eb5aeffba74a/resource/8e43d61b-792c-45c5-8bbc-05a75ff4abfa/download/immeubles-terrains-droit-preemption.geojson",
+          "https://donnees.montreal.ca/dataset/ff4cfec0-34a5-474b-a53e-eb5aeffba74a/resource/dae9e0ac-105a-4016-bd66-4a0bec3e07ca/download/immeubles-terrains-droit-preemption.zip"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/cartes-reglement-metropole-mixte",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Politiques sociales"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Cartes pour l'application du Règlement pour une métropole mixte"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/6cb1107c-fdb0-46aa-80f6-545bc86cbad7/resource/046a1748-3da9-43f0-a676-dbd29458cada/download/rmm_secteursvaleur.zip",
+          "https://donnees.montreal.ca/dataset/6cb1107c-fdb0-46aa-80f6-545bc86cbad7/resource/45d5a9ec-8a5f-4398-b87e-dd0fe508e754/download/rmm_secteursvaleur.geojson",
+          "https://donnees.montreal.ca/dataset/6cb1107c-fdb0-46aa-80f6-545bc86cbad7/resource/f16eb08e-2b84-4189-baea-d19e123d1f94/download/rmm_zonesabordables.zip",
+          "https://donnees.montreal.ca/dataset/6cb1107c-fdb0-46aa-80f6-545bc86cbad7/resource/addab04b-38c8-4bf0-91ba-3a3d2f27ba9e/download/rmm_zonesabordables.geojson",
+          "https://donnees.montreal.ca/dataset/6cb1107c-fdb0-46aa-80f6-545bc86cbad7/resource/23c56343-ac38-4b74-93e0-4595ea206f9e/download/rmm_exemptefamilial.zip",
+          "https://donnees.montreal.ca/dataset/6cb1107c-fdb0-46aa-80f6-545bc86cbad7/resource/21529522-05d3-4ffd-a472-c5617bb1e7a8/download/rmm_exemptefamilial.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/logements-sociaux",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Politiques sociales"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Logements sociaux et communautaires dans l'agglomération de Montréal"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/d26fad0f-2eae-44d5-88a0-2bc699fd2592/resource/bb380faa-1ba5-458b-b520-9e2287bcc07f/download/logsoc_donneesouvertes_20211231.csv",
+          "https://donnees.montreal.ca/dataset/d26fad0f-2eae-44d5-88a0-2bc699fd2592/resource/09117f6b-4580-469f-be2c-2511252389fa/download/logsoc_donneesouvertes_20211231.zip",
+          "https://donnees.montreal.ca/dataset/d26fad0f-2eae-44d5-88a0-2bc699fd2592/resource/1c02ead8-f680-495f-9675-6dd18bd3cad0/download/logsoc_donneesouvertes_20211231.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/reconnaissance-panam",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Politiques sociales"]
+      },
+      {
+        "name": "title",
+        "data": ["Organismes ayant reconnaissance PANAM"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/f0bec8bb-2694-4ff4-8a41-98c6d4480d7d/resource/afedd652-f414-4344-9dd2-386325340db8/download/organismes-panam.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/demandes-aide-alimentaire",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Agriculture et alimentation"]
+      },
+      {
+        "name": "title",
+        "data": ["Suivis des demandes d'aide alimentaire au 211"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/bd715b49-1cb7-496a-9263-f953eb89a082/resource/64049c2b-14d3-4d4a-86a7-3e2b5cbaeca4/download/demandes-aide-alimentaire.csv",
+          "https://donnees.montreal.ca/dataset/bd715b49-1cb7-496a-9263-f953eb89a082/resource/3749c4e8-2d99-4187-8015-a0607f6368fa/download/suivis-aide-alimentaire.csv",
+          "https://donnees.montreal.ca/dataset/bd715b49-1cb7-496a-9263-f953eb89a082/resource/e15e1c11-4389-40b3-9d23-e7c5d8287537/download/besoins-aide-alimentaire.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/subvention-habitation",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Subventions en habitation destinées aux citoyennes et citoyens"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/c1c8a2de-0ae9-4c63-82eb-620ad57ac012/resource/a2f43996-87f9-4423-b800-2f2c41ac326e/download/subventions-habitation-destinees-citoyens.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/budget-participatif-montreal",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Environnement, ressources naturelles et énergie"]
+      },
+      {
+        "name": "title",
+        "data": ["Résultats du Budget participatif de Montréal"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/7f0145a5-3eb3-4108-a611-df1c8e57a879/resource/b82d71f4-8882-421d-a49e-99278207b402/download/bp-propositions-citoyennes-cheminement.csv",
+          "https://donnees.montreal.ca/dataset/7f0145a5-3eb3-4108-a611-df1c8e57a879/resource/5e58c64f-b4e1-4402-9e1e-278415de4ca4/download/bp-liste-projets-pour-analyse.csv",
+          "https://donnees.montreal.ca/dataset/7f0145a5-3eb3-4108-a611-df1c8e57a879/resource/b14c9fd0-f48e-49f5-9c7a-f3d861fedd77/download/bp-classement-resultats-vote.csv",
+          "https://donnees.montreal.ca/dataset/7f0145a5-3eb3-4108-a611-df1c8e57a879/resource/5cb92114-b054-463a-9096-39555325a22c/download/bp-liste-projets-laureats.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/sondage-inclusion-personnes-immigrantes",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Politiques sociales"]
+      },
+      {
+        "name": "title",
+        "data": ["Sondage Écho sur l'inclusion des personnes immigrantes"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/2faa580d-d127-4a30-a79a-1ebf9d255f9b/resource/88bb6a18-54fa-4789-82e8-14888a933a4a/download/sondage-echo-donnees-2020.csv",
+          "https://donnees.montreal.ca/dataset/2faa580d-d127-4a30-a79a-1ebf9d255f9b/resource/05e2c30e-c388-4fd4-b16a-1de911acf23c/download/sondage-echo-variables-2020.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/quartiers-sociologiques",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Politiques sociales"]
+      },
+      {
+        "name": "title",
+        "data": ["Quartiers sociologiques"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/c8f37ad6-16ff-4cdc-9e5a-e47898656fc9/resource/d342d18e-f710-4991-a259-0092bac3d62c/download/quartiers_sociologiques_2014.zip",
+          "https://donnees.montreal.ca/dataset/c8f37ad6-16ff-4cdc-9e5a-e47898656fc9/resource/9f68405f-c658-42e1-a786-cb43a29e344e/download/quartiers_sociologiques_2014.geojson",
+          "https://donnees.montreal.ca/dataset/c8f37ad6-16ff-4cdc-9e5a-e47898656fc9/resource/055b46c1-4c3d-4af4-9c3b-1ff4b4ec39f6/download/quartiers_sociologiques_2014.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/batiments-certifies-qualite-famille",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Bâtiments certifiés « qualité famille »"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/950a2c27-e01e-4fbf-a8c1-26402cf0d454/resource/70b07965-4251-4727-839e-5c2b64e9d296/download/bat_certifies_qual_famille.kml",
+          "https://donnees.montreal.ca/dataset/950a2c27-e01e-4fbf-a8c1-26402cf0d454/resource/b60495f0-e666-4a3f-81e5-b671ba3d9be6/download/pubqualitefamille48x93.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/rui",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Politiques sociales"]
+      },
+      {
+        "name": "title",
+        "data": ["Zone de revitalisation urbaine intégrée (RUI)"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/065c9cf6-eeb8-44d0-8d50-4dff23e16198/resource/d2a89447-7b43-41db-a0d7-6c5506d2fad6/download/gdorui2014shapefile.zip",
+          "https://donnees.montreal.ca/dataset/065c9cf6-eeb8-44d0-8d50-4dff23e16198/resource/52ca1f00-da98-432c-ab1d-9fea80e2757d/download/rui2014.json",
+          "https://donnees.montreal.ca/dataset/065c9cf6-eeb8-44d0-8d50-4dff23e16198/resource/fe7269e9-800d-4f15-ae62-62e6d79c0258/download/gdorui2014gml.zip"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/actes-criminels",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Loi, justice et sécurité publique"]
+      },
+      {
+        "name": "title",
+        "data": ["Actes criminels"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/sense/app/e37e517f-508e-40ba-96e9-de1fbf670e93/sheet/8907cf60-f19d-4532-b8d1-26b0e7d2b25a/state/analysis",
+          "https://donnees.montreal.ca/dataset/5829b5b0-ea6f-476f-be94-bc2b8797769a/resource/c6f482bf-bf0f-4960-8b2f-9982c211addd/download/actes-criminels.csv",
+          "https://donnees.montreal.ca/dataset/5829b5b0-ea6f-476f-be94-bc2b8797769a/resource/aacc4576-97b3-4d8d-883d-22bbca41dbe6/download/actes-criminels.geojson",
+          "https://donnees.montreal.ca/dataset/5829b5b0-ea6f-476f-be94-bc2b8797769a/resource/1171793b-3c41-4dd5-ab99-7bd294c0c9f0/download/actes-criminels.zip"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/signalements-de-coyotes",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Environnement, ressources naturelles et énergie"]
+      },
+      {
+        "name": "title",
+        "data": ["Signalements de coyotes"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/eedac88d-8ec4-435f-ba07-32978127e540/resource/f5183819-098c-418a-ae2e-d8011970adf5/download/signalements-coyotes.csv",
+          "https://donnees.montreal.ca/dataset/eedac88d-8ec4-435f-ba07-32978127e540/resource/41b8515d-3678-4cc5-8929-c39a80a29d4c/download/signalements-coyotes.zip",
+          "https://donnees.montreal.ca/dataset/eedac88d-8ec4-435f-ba07-32978127e540/resource/1c6e2197-0afe-46be-8ed3-2e8886929c4e/download/signalements-coyotes.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/interventions-service-securite-incendie-montreal",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Loi, justice et sécurité publique"]
+      },
+      {
+        "name": "title",
+        "data": ["Interventions des pompiers de Montréal"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/2fc8a2b9-1556-410e-a118-c46e97e9f19e/resource/71e86320-e35c-4b4c-878a-e52124294355/download/donneesouvertes-interventions-sim.csv",
+          "https://donnees.montreal.ca/dataset/2fc8a2b9-1556-410e-a118-c46e97e9f19e/resource/c42ff083-3002-4abe-aee3-951d17586dac/download/interventions-sim.json",
+          "https://donnees.montreal.ca/dataset/2fc8a2b9-1556-410e-a118-c46e97e9f19e/resource/c08b5a11-549f-409d-9d2a-04eb3a10b66a/download/interventions-sim.zip",
+          "https://donnees.montreal.ca/dataset/2fc8a2b9-1556-410e-a118-c46e97e9f19e/resource/0a778ac0-9b5a-42cb-8557-167f7f9b8feb/download/donneesouvertes-interventions-sim-2005-2014.csv",
+          "https://donnees.montreal.ca/dataset/2fc8a2b9-1556-410e-a118-c46e97e9f19e/resource/4f236894-3fdc-4b04-8d11-80f451ffd70d/download/type-interventions-descriptions20161122.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/lieux-batiments-vocation-publique",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Agriculture et alimentation"]
+      },
+      {
+        "name": "title",
+        "data": ["Lieux et bâtiments à vocation publique"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/4731b64f-29cc-4e08-bc44-8752ae2fcafb/download/lieux-fr.csv",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/e1aa4932-b9e9-4aaf-b231-b294f5efcea3/download/lieux-fr.zip",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/2b8bf94c-6b9a-4d60-8091-5b82467a4138/download/lieux-fr.geojson",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/81080d62-5c89-41e6-a401-99f77c459594/download/lieux-en.csv",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/396b5882-45ab-40b3-a364-6a719246b30d/download/lieux-en.zip",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/c58457eb-b4e7-46c4-abce-21137839bcd8/download/lieux-en.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/reglements-municipaux",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": ["Règlements municipaux"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/f8d1c621-f784-4380-994c-97c4369bb17f/resource/5802b643-487b-49c7-955e-7d61ad38f1c8/download/reglements-municipaux.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/casernes-pompiers",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Casernes de pompiers sur l’île de Montréal"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/c69e78c6-e454-4bd9-9778-e4b0eaf8105b/resource/5b9c0e1d-3f75-4e98-b53d-6e979c18cc98/download/casernes.csv",
+          "https://donnees.montreal.ca/dataset/c69e78c6-e454-4bd9-9778-e4b0eaf8105b/resource/d12b4ec0-cdd8-4bd5-b2f0-de1cbc902173/download/casernes.zip",
+          "https://donnees.montreal.ca/dataset/c69e78c6-e454-4bd9-9778-e4b0eaf8105b/resource/beff8ce0-7a61-4a82-95b5-96d89bafa671/download/casernes.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/avis-deterioration",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Loi, justice et sécurité publique"]
+      },
+      {
+        "name": "title",
+        "data": ["Avis de détérioration"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/single/?appid=04961305-168a-4d5b-af02-812e9dab714f&sheet=c5d9d2a6-affa-454f-bbe6-f229c6964777&theme=horizon&opt=ctxmenu,currsel",
+          "https://donnees.montreal.ca/dataset/192a1447-7fdc-4e65-8e7b-eb6162656448/resource/a64d54b0-6c20-4d5d-a9b8-3593170e2a9e/download/avis_deterioration.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/videodiffusion-seances-instances-politiques",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": ["Vidéos des séances des instances décisionnelles"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/single/?appid=38721601-26ca-40b5-be81-ca848f31a5be&sheet=12b18c4a-b362-46ab-b717-22a478298dee&opt=ctxmenu,currsel",
+          "https://donnees.montreal.ca/dataset/f9756c63-10cf-4e21-af29-e1d09d366d28/resource/170464b4-e31e-4666-9629-a3c82fea0ae1/download/conseil-agglomeration.csv",
+          "https://donnees.montreal.ca/dataset/f9756c63-10cf-4e21-af29-e1d09d366d28/resource/7df67add-f218-4a42-aebd-81233231d960/download/conseil-agglomeration-videos-archives.csv",
+          "https://donnees.montreal.ca/dataset/f9756c63-10cf-4e21-af29-e1d09d366d28/resource/fb1ce005-2267-4ffd-8ac7-de4bc252ea12/download/comite-executif.csv",
+          "https://donnees.montreal.ca/dataset/f9756c63-10cf-4e21-af29-e1d09d366d28/resource/07dc2dc3-371a-4336-964a-8d4280e28927/download/comite-executif-videos-archives.csv",
+          "https://donnees.montreal.ca/dataset/f9756c63-10cf-4e21-af29-e1d09d366d28/resource/4451abba-bfd6-4760-9e3d-89e163cdc52a/download/conseil-municipal.csv",
+          "https://donnees.montreal.ca/dataset/f9756c63-10cf-4e21-af29-e1d09d366d28/resource/b8468ad8-a011-4044-9157-2d119048f96b/download/conseil-municipal-videos-archives.csv",
+          "https://donnees.montreal.ca/dataset/f9756c63-10cf-4e21-af29-e1d09d366d28/resource/67459264-cebe-4c7c-82c7-f263922ebfb7/download/commission.csv",
+          "https://donnees.montreal.ca/dataset/f9756c63-10cf-4e21-af29-e1d09d366d28/resource/83090d3c-7f17-49c6-affa-4441bc7a4aff/download/commissions-permanentes-videos-archives.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/plan-urbanisme-densite",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Plan d'urbanisme - Densité de construction"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/63964021-1bb6-4828-ae82-b7ac421a4990/resource/0bcd9fb1-634a-480c-977c-50682104d41a/download/densitepu.zip",
+          "https://donnees.montreal.ca/dataset/63964021-1bb6-4828-ae82-b7ac421a4990/resource/7a59762e-ac17-4a9f-bb2a-12e2d5673906/download/densitepu.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/schema-economie",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Schéma d'aménagement et de développement - Économie"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/f23eda72-c14a-4396-be1e-450396daa975/resource/59ab6711-1329-4686-a3d4-ae8ffa539d9d/download/centrecommercial.zip",
+          "https://donnees.montreal.ca/dataset/f23eda72-c14a-4396-be1e-450396daa975/resource/f0362c3b-021d-4d8e-b7d3-1ccad922d2c1/download/centrecommercial.json",
+          "https://donnees.montreal.ca/dataset/f23eda72-c14a-4396-be1e-450396daa975/resource/67cb30dc-1f8c-4f80-83f5-8238367234d5/download/polecommercial.zip",
+          "https://donnees.montreal.ca/dataset/f23eda72-c14a-4396-be1e-450396daa975/resource/f169c6e6-4a83-44d1-abd5-f95a23056667/download/polecommercial.json",
+          "https://donnees.montreal.ca/dataset/f23eda72-c14a-4396-be1e-450396daa975/resource/0c571f66-4f79-4a36-a5da-2cc69abf0207/download/poleemploi.zip",
+          "https://donnees.montreal.ca/dataset/f23eda72-c14a-4396-be1e-450396daa975/resource/aa403e4b-c1bb-46c5-9793-be1c0c6c6e30/download/poleemploi.json"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/schema-equipements-collectifs",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Schéma d'aménagement et de développement - Équipements collectifs"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/1eee09ec-d3b8-4c7d-ab6d-e85eb9fdd0b0/resource/8ae05e24-b319-434b-bdb1-4a5a5bd9fcbe/download/eqsante.zip",
+          "https://donnees.montreal.ca/dataset/1eee09ec-d3b8-4c7d-ab6d-e85eb9fdd0b0/resource/4eab2cee-0ee4-4dd3-93c3-2a476173b8ec/download/eqsante.json",
+          "https://donnees.montreal.ca/dataset/1eee09ec-d3b8-4c7d-ab6d-e85eb9fdd0b0/resource/56631474-334f-4a8d-b3f9-c128f13809cb/download/eqcollegial.zip",
+          "https://donnees.montreal.ca/dataset/1eee09ec-d3b8-4c7d-ab6d-e85eb9fdd0b0/resource/ff47b841-19c3-4a9a-be32-68a71c187b64/download/eqcollegial.json",
+          "https://donnees.montreal.ca/dataset/1eee09ec-d3b8-4c7d-ab6d-e85eb9fdd0b0/resource/1fe98db2-4e02-4d01-9bd2-e40321b86023/download/equniversitaire.zip",
+          "https://donnees.montreal.ca/dataset/1eee09ec-d3b8-4c7d-ab6d-e85eb9fdd0b0/resource/1ba301a3-3f30-4e3b-8cc9-8ac32d99639e/download/equniversitaire.json",
+          "https://donnees.montreal.ca/dataset/1eee09ec-d3b8-4c7d-ab6d-e85eb9fdd0b0/resource/97a94e3d-fa6f-45c6-b7e3-ce4da257753e/download/eqculturel.zip",
+          "https://donnees.montreal.ca/dataset/1eee09ec-d3b8-4c7d-ab6d-e85eb9fdd0b0/resource/f08fb9f3-e130-4449-b8f0-6d985e1f98b6/download/eqculturel.json",
+          "https://donnees.montreal.ca/dataset/1eee09ec-d3b8-4c7d-ab6d-e85eb9fdd0b0/resource/6b250ab6-04e2-49fb-b9ad-54c3c68e336c/download/concentrationeqculturels.zip",
+          "https://donnees.montreal.ca/dataset/1eee09ec-d3b8-4c7d-ab6d-e85eb9fdd0b0/resource/a39a2bee-f076-4b56-94b3-054e186c053f/download/concentrationeqculturels.json",
+          "https://donnees.montreal.ca/dataset/1eee09ec-d3b8-4c7d-ab6d-e85eb9fdd0b0/resource/7c522da2-fdef-4248-ba82-f07dd94b5eec/download/eqsportifrecreatif.zip",
+          "https://donnees.montreal.ca/dataset/1eee09ec-d3b8-4c7d-ab6d-e85eb9fdd0b0/resource/ae0187de-7751-43ac-8259-246d1b139058/download/eqsportifrecreatif.json",
+          "https://donnees.montreal.ca/dataset/1eee09ec-d3b8-4c7d-ab6d-e85eb9fdd0b0/resource/f8bfee81-5651-4596-83bf-ec5aabae490c/download/ensemblessportifs.zip",
+          "https://donnees.montreal.ca/dataset/1eee09ec-d3b8-4c7d-ab6d-e85eb9fdd0b0/resource/cc8ab48b-8c7a-4fb7-8678-2c66d1f3dc60/download/ensemblessportifs.json",
+          "https://donnees.montreal.ca/dataset/1eee09ec-d3b8-4c7d-ab6d-e85eb9fdd0b0/resource/c8dd9dbb-0965-4f50-be26-c4da0abe9249/download/eqtourisme.zip",
+          "https://donnees.montreal.ca/dataset/1eee09ec-d3b8-4c7d-ab6d-e85eb9fdd0b0/resource/71cd31ca-0cab-494c-b05f-d38e798b3c06/download/eqtourisme.json",
+          "https://donnees.montreal.ca/dataset/1eee09ec-d3b8-4c7d-ab6d-e85eb9fdd0b0/resource/5afb0b6e-1e42-4807-9dd1-c7192fa461ea/download/infrastructureslieneau.zip",
+          "https://donnees.montreal.ca/dataset/1eee09ec-d3b8-4c7d-ab6d-e85eb9fdd0b0/resource/5b3090c9-eaa0-4e01-b78d-de52abcb8c2e/download/infrastructureslieneau.json"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/schema-affectation-densite",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Schéma d'aménagement et de développement - Affectation du sol et densité d'occupation"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/0d39fcc6-8dff-4c5b-902f-1752fa44db70/resource/9216b008-8d14-4200-8006-31d49a4cec44/download/graffectations.zip",
+          "https://donnees.montreal.ca/dataset/0d39fcc6-8dff-4c5b-902f-1752fa44db70/resource/87c6370f-a661-41d0-a631-f3d8e5276598/download/graffectations.geojson",
+          "https://donnees.montreal.ca/dataset/0d39fcc6-8dff-4c5b-902f-1752fa44db70/resource/eca677a6-1fe6-43f0-ba1d-851e789c61a1/download/perimurb.zip",
+          "https://donnees.montreal.ca/dataset/0d39fcc6-8dff-4c5b-902f-1752fa44db70/resource/a6e477af-cbb4-4a90-8f6f-f3d78ce391a4/download/perimurb.json",
+          "https://donnees.montreal.ca/dataset/0d39fcc6-8dff-4c5b-902f-1752fa44db70/resource/21202cc8-ab87-4ac5-9b52-0fdb815989f4/download/secteursdensification.zip",
+          "https://donnees.montreal.ca/dataset/0d39fcc6-8dff-4c5b-902f-1752fa44db70/resource/681a83f5-4513-402a-83a8-f227fb10ba0d/download/secteursdensification.json",
+          "https://donnees.montreal.ca/dataset/0d39fcc6-8dff-4c5b-902f-1752fa44db70/resource/f8a45dc4-d964-48e4-add2-c274960d7087/download/densiteairetod.zip",
+          "https://donnees.montreal.ca/dataset/0d39fcc6-8dff-4c5b-902f-1752fa44db70/resource/15b34214-38cc-46b6-92be-21a6441a525f/download/densiteairetod.json",
+          "https://donnees.montreal.ca/dataset/0d39fcc6-8dff-4c5b-902f-1752fa44db70/resource/135bdf44-ec46-4aa4-95b3-6db57553cf16/download/densiteresidentielle.zip",
+          "https://donnees.montreal.ca/dataset/0d39fcc6-8dff-4c5b-902f-1752fa44db70/resource/cc5a08e4-41d2-4c8c-a0bf-7a4e1a72b613/download/densiteresidentielle.json",
+          "https://donnees.montreal.ca/dataset/0d39fcc6-8dff-4c5b-902f-1752fa44db70/resource/9ca9cccd-eda8-4cb8-abf3-cc8cb8bce561/download/terrainsconsttrans.zip",
+          "https://donnees.montreal.ca/dataset/0d39fcc6-8dff-4c5b-902f-1752fa44db70/resource/61ed8f1d-331b-4cbf-89fa-f81d293f8a37/download/terrainsconsttrans.json",
+          "https://donnees.montreal.ca/dataset/0d39fcc6-8dff-4c5b-902f-1752fa44db70/resource/30947808-5a9a-472b-be4e-dd8f67ce1fb8/download/planifstrategiquesad.zip",
+          "https://donnees.montreal.ca/dataset/0d39fcc6-8dff-4c5b-902f-1752fa44db70/resource/a290349f-5ed8-408f-ac2e-13a768d19faa/download/planifstrategiquesad.json"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/schema-patrimoine-paysage",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Schéma d'aménagement et de développement - Patrimoine et paysage"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/1f927d2e-d5b3-4bb6-b521-94b3ce4525b8/resource/30c1c266-6368-4169-b245-122d8b0f18c0/download/grandespropinst.zip",
+          "https://donnees.montreal.ca/dataset/1f927d2e-d5b3-4bb6-b521-94b3ce4525b8/resource/24cc739f-5e51-4c54-9739-911b13cf6c79/download/grandespropinst.geojson",
+          "https://donnees.montreal.ca/dataset/1f927d2e-d5b3-4bb6-b521-94b3ce4525b8/resource/f583406c-416c-448c-b1f7-57f4fc45eb49/download/secteurvaleurpatrimoniale.zip",
+          "https://donnees.montreal.ca/dataset/1f927d2e-d5b3-4bb6-b521-94b3ce4525b8/resource/0b0f4f89-1fad-44bf-aac6-a8f8c5a26f86/download/secteurvaleurpatrimoniale.geojson",
+          "https://donnees.montreal.ca/dataset/1f927d2e-d5b3-4bb6-b521-94b3ce4525b8/resource/f2118e53-b6f0-46c6-b7e8-9baf03baf864/download/siarcheosad.zip",
+          "https://donnees.montreal.ca/dataset/1f927d2e-d5b3-4bb6-b521-94b3ce4525b8/resource/b8d8ef70-951d-434d-a629-9280ff09a1a3/download/siarcheosad.json",
+          "https://donnees.montreal.ca/dataset/1f927d2e-d5b3-4bb6-b521-94b3ce4525b8/resource/cd0b569b-961f-4067-b766-4b1a3b565a04/download/parcoursriverain.zip",
+          "https://donnees.montreal.ca/dataset/1f927d2e-d5b3-4bb6-b521-94b3ce4525b8/resource/00aa6e77-ceca-4253-8a9b-a1a03062f975/download/parcoursriverain.json",
+          "https://donnees.montreal.ca/dataset/1f927d2e-d5b3-4bb6-b521-94b3ce4525b8/resource/1fc313ba-daf0-45b9-a20f-39f1bf2f6301/download/noyauvillageois.zip",
+          "https://donnees.montreal.ca/dataset/1f927d2e-d5b3-4bb6-b521-94b3ce4525b8/resource/91330324-5f08-4d3d-814e-6943a5165f10/download/noyauxvillageois.geojson",
+          "https://donnees.montreal.ca/dataset/1f927d2e-d5b3-4bb6-b521-94b3ce4525b8/resource/83bee96a-71f8-4ca3-9d06-8203b6f5f3a0/download/paysagehumaniseilebizard.zip",
+          "https://donnees.montreal.ca/dataset/1f927d2e-d5b3-4bb6-b521-94b3ce4525b8/resource/ce7c9f67-20df-4809-99ee-84d14665c982/download/paysagehumaniseilebizard.json",
+          "https://donnees.montreal.ca/dataset/1f927d2e-d5b3-4bb6-b521-94b3ce4525b8/resource/c2342315-beb8-4daf-b774-ffb2b3c4b29a/download/vuespt.zip",
+          "https://donnees.montreal.ca/dataset/1f927d2e-d5b3-4bb6-b521-94b3ce4525b8/resource/a57a4136-4767-47ed-9e6c-1a07183ba33d/download/vuespt.json",
+          "https://donnees.montreal.ca/dataset/1f927d2e-d5b3-4bb6-b521-94b3ce4525b8/resource/27d3b0d8-3a45-4e2f-beee-737aac713d03/download/vuescones.zip",
+          "https://donnees.montreal.ca/dataset/1f927d2e-d5b3-4bb6-b521-94b3ce4525b8/resource/5cfd4f38-7e62-4aa1-820a-4bb97ab8f685/download/vuescones.json",
+          "https://donnees.montreal.ca/dataset/1f927d2e-d5b3-4bb6-b521-94b3ce4525b8/resource/c4e33848-1ed5-4c15-9524-0e32b3424d4d/download/terrassesherbrooke.zip",
+          "https://donnees.montreal.ca/dataset/1f927d2e-d5b3-4bb6-b521-94b3ce4525b8/resource/3487cf3d-2146-4017-b4b0-b37278301022/download/terrassesherbrooke.json",
+          "https://donnees.montreal.ca/dataset/1f927d2e-d5b3-4bb6-b521-94b3ce4525b8/resource/f8aab9b1-eae8-4be0-bdad-baaad654a13e/download/rapides.zip",
+          "https://donnees.montreal.ca/dataset/1f927d2e-d5b3-4bb6-b521-94b3ce4525b8/resource/7694f231-4e72-4e81-bfa0-8f516d34b55b/download/rapides.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/schema-transport",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Schéma d'aménagement et de développement - Transport"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/30028e66-e3b1-4478-8349-149b7c046932/resource/7f8d8421-81d4-4044-88d7-84d463bac157/download/srb.zip",
+          "https://donnees.montreal.ca/dataset/30028e66-e3b1-4478-8349-149b7c046932/resource/62f6d6c5-0402-4fef-864f-e01ab3fba358/download/srb.json",
+          "https://donnees.montreal.ca/dataset/30028e66-e3b1-4478-8349-149b7c046932/resource/7ce2aff7-a084-4266-9fcb-478613b2056b/download/projetroutier.zip",
+          "https://donnees.montreal.ca/dataset/30028e66-e3b1-4478-8349-149b7c046932/resource/a67017aa-b83e-4e07-b0fd-37aca7dbd1a5/download/projetroutier.json",
+          "https://donnees.montreal.ca/dataset/30028e66-e3b1-4478-8349-149b7c046932/resource/374b502a-7c1d-435a-80d1-e16f15caa437/download/parcoursentree.zip",
+          "https://donnees.montreal.ca/dataset/30028e66-e3b1-4478-8349-149b7c046932/resource/e3c2872e-4811-4e99-b515-f69e069f3ee9/download/parcoursentree.json",
+          "https://donnees.montreal.ca/dataset/30028e66-e3b1-4478-8349-149b7c046932/resource/14b718f6-4585-4e16-8dc8-df599190e492/download/reseauferroviaire.zip",
+          "https://donnees.montreal.ca/dataset/30028e66-e3b1-4478-8349-149b7c046932/resource/d2d8d721-208d-4a4d-b016-24567862e638/download/reseauferroviaire.geojson",
+          "https://donnees.montreal.ca/dataset/30028e66-e3b1-4478-8349-149b7c046932/resource/0b63a431-7a51-4c24-8af7-e9c0f63936ad/download/accessibiliteponts.zip",
+          "https://donnees.montreal.ca/dataset/30028e66-e3b1-4478-8349-149b7c046932/resource/7d22a465-2568-4e29-a2e9-9c2c5eff2a47/download/accessibiliteponts.json",
+          "https://donnees.montreal.ca/dataset/30028e66-e3b1-4478-8349-149b7c046932/resource/ee8cfc58-e3de-4a29-ba8f-badff8bca0ba/download/navettefluviale.zip",
+          "https://donnees.montreal.ca/dataset/30028e66-e3b1-4478-8349-149b7c046932/resource/d49ac725-8afd-4076-aaf3-ef543b93cf8b/download/navettefluviale.json"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/schema-environnement-milieux-naturels",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Environnement, ressources naturelles et énergie"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Schéma d'aménagement et de développement - Environnement et milieux naturels"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/e668ac49-2403-4c91-a61f-09d249da26ac/resource/c0dc38a2-f075-4e06-91ec-32f3a1bb8c51/download/indexplaineinondable.zip",
+          "https://donnees.montreal.ca/dataset/e668ac49-2403-4c91-a61f-09d249da26ac/resource/e90198d4-18bf-4f0a-93e2-ff5854b09071/download/indexplaineinondable.geojson",
+          "https://donnees.montreal.ca/dataset/e668ac49-2403-4c91-a61f-09d249da26ac/resource/60844094-b903-48f5-93f6-652da5ad9d83/download/ilotschaleur.zip",
+          "https://donnees.montreal.ca/dataset/e668ac49-2403-4c91-a61f-09d249da26ac/resource/8cd8d34a-cfdd-4acf-a363-d4adaeff18c0/download/ilotschaleur.geojson",
+          "https://donnees.montreal.ca/dataset/e668ac49-2403-4c91-a61f-09d249da26ac/resource/d6939d3a-4428-44d4-b9ad-5939d0cb9994/download/espacesverts.zip",
+          "https://donnees.montreal.ca/dataset/e668ac49-2403-4c91-a61f-09d249da26ac/resource/86e4a4e7-1ffd-4335-892f-2f0efaffe061/download/espacesverts.json",
+          "https://donnees.montreal.ca/dataset/e668ac49-2403-4c91-a61f-09d249da26ac/resource/bbac49dd-d724-4369-a656-5aeb921ba600/download/boiscorridorforestier.zip",
+          "https://donnees.montreal.ca/dataset/e668ac49-2403-4c91-a61f-09d249da26ac/resource/df6f3078-97d5-47c8-923e-3200bf1bbab7/download/boiscorridorforestier.json",
+          "https://donnees.montreal.ca/dataset/e668ac49-2403-4c91-a61f-09d249da26ac/resource/556e6ab2-595f-468f-80e9-df5effc9225c/download/falaisesaintjacques.zip",
+          "https://donnees.montreal.ca/dataset/e668ac49-2403-4c91-a61f-09d249da26ac/resource/1f344d6a-e3ba-4a90-a5af-9defe978c4c5/download/falaisesaintjacques.json"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/collisions-routieres",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Loi, justice et sécurité publique"]
+      },
+      {
+        "name": "title",
+        "data": ["Collisions routières"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/single/?appid=f810f0be-9060-4223-9881-785e1d62b3b5&sheet=29bdfd82-4409-430e-bacd-760343ff83ad&opt=ctxmenu,currsel",
+          "https://donnees.montreal.ca/dataset/cd722e22-376b-4b89-9bc2-7c7ab317ef6b/resource/05deae93-d9fc-4acb-9779-e0942b5e962f/download/collisions_routieres.csv",
+          "https://donnees.montreal.ca/dataset/cd722e22-376b-4b89-9bc2-7c7ab317ef6b/resource/3957364a-f579-4bc4-987a-299708fefd3e/download/collisions_routieres.geojson",
+          "https://donnees.montreal.ca/dataset/cd722e22-376b-4b89-9bc2-7c7ab317ef6b/resource/5a81f6c5-e3e7-4c0e-9ccf-a4ba2cab77ba/download/collisions_routieres.zip",
+          "https://donnees.montreal.ca/dataset/cd722e22-376b-4b89-9bc2-7c7ab317ef6b/resource/9b6f372a-5b0e-4c27-b9c3-fc02616a8261/download/polygones_analyses.geojson",
+          "https://donnees.montreal.ca/dataset/cd722e22-376b-4b89-9bc2-7c7ab317ef6b/resource/7a863f93-f297-4ee5-aec5-6f4d1045c955/download/polygone_analyse.zip",
+          "https://www.donneesquebec.ca/recherche/dataset/8dd0ab9b-d45d-4526-9256-c598fbc4ff3a/resource/86cd3bcb-fe10-4ca5-992e-5bb80e5c534a/download/rapports-accident-documentation.pdf",
+          "https://donnees.montreal.ca/dataset/cd722e22-376b-4b89-9bc2-7c7ab317ef6b/resource/51a7807e-a8d5-4620-857a-1c5b9c0bbca7/download/dictionnaire_travail_donnee_ouverte.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/limites-pdq-spvm",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Loi, justice et sécurité publique"]
+      },
+      {
+        "name": "title",
+        "data": ["Limite des secteurs de poste de quartier de police"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/sense/app/e7392c6d-047d-441b-b2d9-4982c648f4f4/sheet/SH01/state/analysis",
+          "https://donnees.montreal.ca/dataset/186892b8-bba5-426c-aa7e-9db8c43cbdfe/resource/d3836ea6-8a74-444c-8a82-a48dec91d8f0/download/limitespdq.csv",
+          "https://donnees.montreal.ca/dataset/186892b8-bba5-426c-aa7e-9db8c43cbdfe/resource/e1b5e9f7-685a-46f3-a14e-8117817a57b8/download/limitespdq.zip",
+          "https://donnees.montreal.ca/dataset/186892b8-bba5-426c-aa7e-9db8c43cbdfe/resource/e18f0da9-3a16-4ba4-b378-59f698b47261/download/limitespdq.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/formation-ethique-personnes-elues",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Personnes élues ayant suivi la formation obligatoire en éthique"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/b49569f1-f6e7-4f35-af39-828cfa46705b/resource/c975d284-e8f1-4395-ba37-d1f4d1ffe404/download/personnes-elues-formation-ethique.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/carte-postes-quartier",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Loi, justice et sécurité publique"]
+      },
+      {
+        "name": "title",
+        "data": ["Postes de police de quartier sur l’île de Montréal"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/91f66001-b461-4f63-aff4-cddc0fe30ffe/resource/c9f296dd-596e-48ed-9c76-37230b2c916d/download/pdq.csv",
+          "https://donnees.montreal.ca/dataset/91f66001-b461-4f63-aff4-cddc0fe30ffe/resource/68b9e294-ec10-4248-b2ee-5e5990bad9c3/download/pdq.zip",
+          "https://donnees.montreal.ca/dataset/91f66001-b461-4f63-aff4-cddc0fe30ffe/resource/c9d0b8d6-c7a6-4766-a5cc-98e8b1392bbc/download/pdq.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/territoires-administratifs-des-casernes",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Loi, justice et sécurité publique"]
+      },
+      {
+        "name": "title",
+        "data": ["Territoires administratifs des casernes"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/49af1f40-6a69-494f-8fa3-b84b532a7dd6/resource/7157e8e8-8d01-4d3f-b99b-28a79db013ce/download/territoires-administratifs-casernes.zip",
+          "https://donnees.montreal.ca/dataset/49af1f40-6a69-494f-8fa3-b84b532a7dd6/resource/16c8198c-8adc-47e6-8db9-44cba01bfe33/download/territoires-administratifs-casernes.csv",
+          "https://donnees.montreal.ca/dataset/49af1f40-6a69-494f-8fa3-b84b532a7dd6/resource/85aa388e-8830-4282-a240-cc4ad8c183b9/download/territoires-administratifs-casernes.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/lieux-batiments-vocation-publique",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Agriculture et alimentation"]
+      },
+      {
+        "name": "title",
+        "data": ["Lieux et bâtiments à vocation publique"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/4731b64f-29cc-4e08-bc44-8752ae2fcafb/download/lieux-fr.csv",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/e1aa4932-b9e9-4aaf-b231-b294f5efcea3/download/lieux-fr.zip",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/2b8bf94c-6b9a-4d60-8091-5b82467a4138/download/lieux-fr.geojson",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/81080d62-5c89-41e6-a401-99f77c459594/download/lieux-en.csv",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/396b5882-45ab-40b3-a364-6a719246b30d/download/lieux-en.zip",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/c58457eb-b4e7-46c4-abce-21137839bcd8/download/lieux-en.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/toponymes",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Société et culture"]
+      },
+      {
+        "name": "title",
+        "data": ["Répertoire historique des toponymes"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/2985215a-a049-4229-81bc-c22f99edb9f7/resource/ea5edde7-cdf6-4bc7-9f37-dd848ba359cb/download/toponymes.csv",
+          "https://donnees.montreal.ca/dataset/2985215a-a049-4229-81bc-c22f99edb9f7/resource/cb52bb00-912b-4467-a4a8-6f9fc049694f/download/toponymes.json"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/toponym-elles",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Société et culture"]
+      },
+      {
+        "name": "title",
+        "data": ["Banque de nom Toponym'Elles"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/e9321c33-fa45-42fd-a373-74222ce13d60/resource/f7de9ca9-fa70-4848-b298-69757e55486d/download/toponym-elles.csv",
+          "https://donnees.montreal.ca/dataset/e9321c33-fa45-42fd-a373-74222ce13d60/resource/4349948b-e9c7-445e-b405-43a04e7e100d/download/toponym-elles.json"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/programmes-subventions-destines-population",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Programmes et subventions destinés à la population et aux organismes"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/ed18ce85-dc88-4db8-94f5-75cb6001e03f/resource/5a2bef39-3b3e-4d7d-82cf-658f7821e141/download/programmes.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/parcours-riverain",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Société et culture"]
+      },
+      {
+        "name": "title",
+        "data": ["Parcours riverain"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://ville.montreal.qc.ca/parcours-riverain/",
+          "https://donnees.montreal.ca/dataset/14be6566-5e91-4553-9049-857bcfc0f7ca/resource/2faf3ba7-f911-4a31-9108-105e8b957dea/download/parcours_riverains.csv",
+          "https://donnees.montreal.ca/dataset/14be6566-5e91-4553-9049-857bcfc0f7ca/resource/f5f0889b-1e8d-4ee8-ba56-8e1facb68a60/download/parcours_riverains.geojson",
+          "https://donnees.montreal.ca/dataset/14be6566-5e91-4553-9049-857bcfc0f7ca/resource/6474816f-dbcc-412e-ab48-f5d92afa15da/download/parcours_riverains.kml"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/murales",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Société et culture"]
+      },
+      {
+        "name": "title",
+        "data": ["Murales subventionnées"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/53d2e586-6e7f-4eae-89a1-2cfa7fc29fa0/resource/f02401c2-8336-4086-9955-4c5592ace72e/download/murales.csv",
+          "https://donnees.montreal.ca/dataset/53d2e586-6e7f-4eae-89a1-2cfa7fc29fa0/resource/d325352b-1c06-4c3a-bf5e-1e4c98e0636b/download/murales.geojson",
+          "https://donnees.montreal.ca/dataset/53d2e586-6e7f-4eae-89a1-2cfa7fc29fa0/resource/76a72be1-25cf-42f1-bff1-238cc11f870f/download/murales.zip"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/permis-et-autorisations-de-tournage",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Société et culture"]
+      },
+      {
+        "name": "title",
+        "data": ["Permis et autorisations de tournage"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/b823cadc-0402-4392-a0f4-9128f8f7f58b/resource/a7b589d2-67bd-4892-9f4e-bcdd91e898ac/download/protocoles_tournages.csv",
+          "https://donnees.montreal.ca/dataset/b823cadc-0402-4392-a0f4-9128f8f7f58b/resource/c49ba7fe-79bd-4dbe-9aa5-60c30eca9aae/download/permis_tournages.csv",
+          "https://donnees.montreal.ca/dataset/b823cadc-0402-4392-a0f4-9128f8f7f58b/resource/4ada1468-2bcc-40b0-bf2c-94d343af2c22/download/protocoles_tournages-historique.csv",
+          "https://donnees.montreal.ca/dataset/b823cadc-0402-4392-a0f4-9128f8f7f58b/resource/bd9167b4-4130-415e-a0b8-0efda6099e3f/download/permis_tournages-historique.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/bibliotheques-montreal-statistiques",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Société et culture"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Bibliothèques de Montréal - statistiques sur le prêt, les collections et la fréquentation"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/258c9916-1e2f-49b2-8c5c-1e2134dc403a/resource/a8ddaa0a-780b-4a05-a4ed-9488aae0619a/download/bm_stats-consol.xlsx",
+          "https://donnees.montreal.ca/dataset/258c9916-1e2f-49b2-8c5c-1e2134dc403a/resource/fea9d514-c53b-42b3-9ab4-a83ca1222561/download/pdrfrequentation.xls",
+          "https://donnees.montreal.ca/dataset/258c9916-1e2f-49b2-8c5c-1e2134dc403a/resource/c0e87f6d-bed1-45f1-bf7a-4c8f4aab956e/download/pret_total_physiquenumerique.xls",
+          "https://donnees.montreal.ca/dataset/258c9916-1e2f-49b2-8c5c-1e2134dc403a/resource/3e187baa-4cd7-47f0-9984-6e7ed8667047/download/pdrpretslivres.xlsx",
+          "https://donnees.montreal.ca/dataset/258c9916-1e2f-49b2-8c5c-1e2134dc403a/resource/6fd7e814-1c62-4692-b3b0-910f4b213d5d/download/pdrpretsformat.xlsx",
+          "https://donnees.montreal.ca/dataset/258c9916-1e2f-49b2-8c5c-1e2134dc403a/resource/4c77f194-2799-4356-8983-67bf7510170b/download/pdrpretspublic.xlsx",
+          "https://donnees.montreal.ca/dataset/258c9916-1e2f-49b2-8c5c-1e2134dc403a/resource/8342d458-64c2-46d2-93ed-46210ae7bfff/download/pdrlibre-service.xls",
+          "https://donnees.montreal.ca/dataset/258c9916-1e2f-49b2-8c5c-1e2134dc403a/resource/f7f5bc96-d1eb-482f-9cfe-c0278b6d413f/download/pdrcollectionlivres.xlsx",
+          "https://donnees.montreal.ca/dataset/258c9916-1e2f-49b2-8c5c-1e2134dc403a/resource/8b5ad1da-f43c-4219-b2db-8249d57d0d2c/download/pdrcollectionformat.xls",
+          "https://donnees.montreal.ca/dataset/258c9916-1e2f-49b2-8c5c-1e2134dc403a/resource/e3bb23ca-32a9-4848-893e-a113a318f6ae/download/pdrcollectionlanguepublic.xls"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/sites-immeubles-proteges-lpc",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Sites et immeubles protégés en vertu de la Loi sur le patrimoine culturel"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/41fcc790-e328-44be-bcbf-73556fa0bc32/resource/a782ed14-1d60-498e-89f5-596c69824646/download/patrimoinelpc.zip",
+          "https://donnees.montreal.ca/dataset/41fcc790-e328-44be-bcbf-73556fa0bc32/resource/b0a6cfa4-ad77-4f5b-bd1b-050fe233a31f/download/patrimoinelpc.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/corvees-de-proprete-citoyennes",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Société et culture"]
+      },
+      {
+        "name": "title",
+        "data": ["Corvées de propreté citoyennes"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://servicesenligne2.ville.montreal.qc.ca/corvees/liste/donnees-ouvertes"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/art-public-information-sur-les-oeuvres-de-la-collection-municipale",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Société et culture"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Art public - Information sur les oeuvres de la collection municipale"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/2980db3a-9eb4-4c0e-b7c6-a6584cb769c9/resource/18705524-c8a6-49a0-bca7-92f493e6d329/download/oeuvresdonneesouvertes.json"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/consultation-des-communautes-lgbtq-a-montreal",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Société et culture"]
+      },
+      {
+        "name": "title",
+        "data": ["Consultation des communautés LGBTQ2+ à Montréal"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/fa12b84c-0680-4ad5-9d80-b9c06861d84a/resource/6fd6bb57-2b26-44f4-bc16-cd6079455609/download/sondage_communautes_lgbtq2plus.csv",
+          "https://donnees.montreal.ca/dataset/fa12b84c-0680-4ad5-9d80-b9c06861d84a/resource/4b7985dc-14b0-4021-96fe-15c402c04617/download/questionnaire_lgbtq.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/catalogue-bibliotheques",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Société et culture"]
+      },
+      {
+        "name": "title",
+        "data": ["Bibliothèques de Montréal – informations sur les documents"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/7ae1499a-8387-40b0-a248-86eb5b528da7/resource/8989b16e-71d4-476a-8556-fadb9fd6b7b0/download/catalogue-bibliotheque.zip"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/lieux-culturels",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Lieux culturels municipaux de Montréal"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/ceb2427e-aa50-4d06-b13a-d1b21e2702b9/resource/cbcce53f-d6a0-4b08-b481-967b0490cd40/download/lieuxculturels.xls",
+          "https://donnees.montreal.ca/dataset/ceb2427e-aa50-4d06-b13a-d1b21e2702b9/resource/974ca8d4-ed85-4c77-a79f-9f765e4c1b32/download/lieuxculturels.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/rues-pietonnes",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Rues piétonnes et partagées"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/1e153f9f-3930-4133-8d35-ade2e8f7e7e3/resource/22411a5b-0c6f-4ac3-b385-f61ac4bcfbdb/download/ruespietonnespartagees.kml",
+          "https://donnees.montreal.ca/dataset/1e153f9f-3930-4133-8d35-ade2e8f7e7e3/resource/ef2a8162-0644-47e7-bd03-bea33f14a5d2/download/projetpietonnisation2017.csv",
+          "https://donnees.montreal.ca/dataset/1e153f9f-3930-4133-8d35-ade2e8f7e7e3/resource/425d94e5-19e9-450a-89ef-4548ed409dcd/download/projetpietonnisation2017.zip",
+          "https://donnees.montreal.ca/dataset/1e153f9f-3930-4133-8d35-ade2e8f7e7e3/resource/dfe003f6-2dd1-4c50-af68-154a914421cc/download/projetpietonnisation2017.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/soutien-artistes-organismes-culturels",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Société et culture"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Soutien aux artistes, organismes culturels et arrondissements"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/4c85c5c2-5af9-40a0-9d97-8123ba7e4b33/resource/356ffda7-55ee-4582-ab92-3e037d1a7394/download/bilancontributions2016final.xls",
+          "https://donnees.montreal.ca/dataset/4c85c5c2-5af9-40a0-9d97-8123ba7e4b33/resource/d173d43f-a18c-4029-9e5b-3228c2446999/download/bilancontributions2015-final.xls",
+          "https://donnees.montreal.ca/dataset/4c85c5c2-5af9-40a0-9d97-8123ba7e4b33/resource/bc426be1-c40d-4aae-8c39-cbf7b09334c8/download/bilancontributions2015-final.csv",
+          "https://donnees.montreal.ca/dataset/4c85c5c2-5af9-40a0-9d97-8123ba7e4b33/resource/e8be932d-62f4-4056-9198-be297924ab55/download/bilancontributions2014-final.xls",
+          "https://donnees.montreal.ca/dataset/4c85c5c2-5af9-40a0-9d97-8123ba7e4b33/resource/5a2f93f6-7302-4844-8502-00afaa06ed62/download/bilancontributions2014-final.csv",
+          "https://donnees.montreal.ca/dataset/4c85c5c2-5af9-40a0-9d97-8123ba7e4b33/resource/bff42a2f-10e4-43a6-a816-6fdfc633173f/download/bilancontributions2013-final.xls",
+          "https://donnees.montreal.ca/dataset/4c85c5c2-5af9-40a0-9d97-8123ba7e4b33/resource/0c081ff3-8441-4ce1-a047-e6bfe628e245/download/bilancontributions2013-final.csv",
+          "https://donnees.montreal.ca/dataset/4c85c5c2-5af9-40a0-9d97-8123ba7e4b33/resource/0b614052-71a1-4f78-a15b-0393d27905ed/download/bilancontributions-2012-vfinale040513.xls",
+          "https://donnees.montreal.ca/dataset/4c85c5c2-5af9-40a0-9d97-8123ba7e4b33/resource/f56f129e-1f6c-40ac-afd5-42a6c45ed191/download/bilancontributions-2012-vfinale040513.csv",
+          "https://donnees.montreal.ca/dataset/4c85c5c2-5af9-40a0-9d97-8123ba7e4b33/resource/769b466e-50f9-4d68-b7b8-d23cd30a6daf/download/bilancontributions-2011-vfdonnesouvertes.xls",
+          "https://donnees.montreal.ca/dataset/4c85c5c2-5af9-40a0-9d97-8123ba7e4b33/resource/4136d9be-e2ca-4334-b669-2e96f46beaeb/download/bilancontributions-2011-vfdonnesouvertes.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/programmation-culturelle-vas",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Société et culture"]
+      },
+      {
+        "name": "title",
+        "data": ["Programmation culturelle 2020-2021"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/6d080ad9-3823-4bfd-8c61-32594f11bc83/resource/1fa7a8db-2554-440a-9a5a-53c16b5d3995/download/programmation-culturelle-estivale-2020.csv",
+          "https://donnees.montreal.ca/dataset/6d080ad9-3823-4bfd-8c61-32594f11bc83/resource/0e810012-17ad-4f31-b59a-95bb0d6c2a56/download/programmation-culturelle-estivale-2020.geojson",
+          "https://donnees.montreal.ca/dataset/6d080ad9-3823-4bfd-8c61-32594f11bc83/resource/e040ae97-9598-49a6-8d13-f1c5ff610b23/download/programmation-culturelle-estivale-2020.zip"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/activites-programmation-375e",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Société et culture"]
+      },
+      {
+        "name": "title",
+        "data": ["Activités de la programmation du 375e (2017)"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/sense/app/b6e611a8-351a-49a9-873d-b91fdedf2d45/sheet/SH01/state/analysis",
+          "https://donnees.montreal.ca/dataset/989ab100-b278-4a96-9967-59ce8116ea55/resource/12382aee-b5c8-4106-9056-f117bcab2cd5/download/programmation375octobre2016.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/sondage-inclusion-personnes-immigrantes",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Politiques sociales"]
+      },
+      {
+        "name": "title",
+        "data": ["Sondage Écho sur l'inclusion des personnes immigrantes"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/2faa580d-d127-4a30-a79a-1ebf9d255f9b/resource/88bb6a18-54fa-4789-82e8-14888a933a4a/download/sondage-echo-donnees-2020.csv",
+          "https://donnees.montreal.ca/dataset/2faa580d-d127-4a30-a79a-1ebf9d255f9b/resource/05e2c30e-c388-4fd4-b16a-1de911acf23c/download/sondage-echo-variables-2020.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/points-rencontres-livres-dans-la-rue",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Société et culture"]
+      },
+      {
+        "name": "title",
+        "data": ["Points de rencontre pour Livres dans la rue"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/d8a65088-a513-4253-bec8-44177727c985/resource/81548d1c-02d3-4657-a85b-991aa77e21f8/download/pointsrencontrelivredansrue.xls",
+          "https://donnees.montreal.ca/dataset/d8a65088-a513-4253-bec8-44177727c985/resource/61241273-58b5-4ab6-bd98-992585133a47/download/pointsrencontrelivredansrue.csv",
+          "https://donnees.montreal.ca/dataset/d8a65088-a513-4253-bec8-44177727c985/resource/fd417b9b-30c1-4474-923c-545694a533f7/download/pointsrencontrelivredansrue.ods",
+          "https://donnees.montreal.ca/dataset/d8a65088-a513-4253-bec8-44177727c985/resource/c0e2c180-1ada-45f0-bc8b-f8f40be2fee0/download/pointsrencontrelivredansrue2015.xls",
+          "https://donnees.montreal.ca/dataset/d8a65088-a513-4253-bec8-44177727c985/resource/0f8ca78d-a991-4b27-8571-bb760e5d8059/download/pointsrencontrelivredansrue2015.csv",
+          "https://donnees.montreal.ca/dataset/d8a65088-a513-4253-bec8-44177727c985/resource/3e8137d9-ea9c-4db2-9451-fd5fbb5ac271/download/pointsrencontrelivredansrue2015.ods"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/lieux-batiments-vocation-publique",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Agriculture et alimentation"]
+      },
+      {
+        "name": "title",
+        "data": ["Lieux et bâtiments à vocation publique"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/4731b64f-29cc-4e08-bc44-8752ae2fcafb/download/lieux-fr.csv",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/e1aa4932-b9e9-4aaf-b231-b294f5efcea3/download/lieux-fr.zip",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/2b8bf94c-6b9a-4d60-8091-5b82467a4138/download/lieux-fr.geojson",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/81080d62-5c89-41e6-a401-99f77c459594/download/lieux-en.csv",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/396b5882-45ab-40b3-a364-6a719246b30d/download/lieux-en.zip",
+          "https://donnees.montreal.ca/dataset/43146e84-aaed-4552-87bf-e03954b81c20/resource/c58457eb-b4e7-46c4-abce-21137839bcd8/download/lieux-en.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/programmes-subventions-destines-population",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Gouvernement et finances"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Programmes et subventions destinés à la population et aux organismes"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/ed18ce85-dc88-4db8-94f5-75cb6001e03f/resource/5a2bef39-3b3e-4d7d-82cf-658f7821e141/download/programmes.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/patinoires-historique",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Tourisme, sports et loisirs"]
+      },
+      {
+        "name": "title",
+        "data": ["Patinoires – historique des conditions"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/225ac315-49fe-476f-95bd-a1ce1648a98c/resource/5d1859cc-2060-4def-903f-db24408bacd0/download/l29-patinoire.xml",
+          "https://donnees.montreal.ca/dataset/225ac315-49fe-476f-95bd-a1ce1648a98c/resource/f1381e6d-07c2-4731-ae21-30f099403294/download/l29-patinoire.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/parcours-riverain",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Société et culture"]
+      },
+      {
+        "name": "title",
+        "data": ["Parcours riverain"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://ville.montreal.qc.ca/parcours-riverain/",
+          "https://donnees.montreal.ca/dataset/14be6566-5e91-4553-9049-857bcfc0f7ca/resource/2faf3ba7-f911-4a31-9108-105e8b957dea/download/parcours_riverains.csv",
+          "https://donnees.montreal.ca/dataset/14be6566-5e91-4553-9049-857bcfc0f7ca/resource/f5f0889b-1e8d-4ee8-ba56-8e1facb68a60/download/parcours_riverains.geojson",
+          "https://donnees.montreal.ca/dataset/14be6566-5e91-4553-9049-857bcfc0f7ca/resource/6474816f-dbcc-412e-ab48-f5d92afa15da/download/parcours_riverains.kml"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/conditions-ski",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Tourisme, sports et loisirs"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Conditions de ski et sentiers ainsi que les grands parcs (sites hivernaux)"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "http://www2.ville.montreal.qc.ca/services_citoyens/pdf_transfert/L29_PISTE_SKI.xml",
+          "http://montreal2.qc.ca/ski/donnees/conditions_neige.xml"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/grands-parcs-activites",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Tourisme, sports et loisirs"]
+      },
+      {
+        "name": "title",
+        "data": ["Activités saisonnières dans les 19 grands parcs de Montréal"]
+      },
+      {
+        "name": "links",
+        "data": ["http://montreal2.qc.ca/rep_parcs/donnees/rep_parcs.xml"]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/patinoires",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Tourisme, sports et loisirs"]
+      },
+      {
+        "name": "title",
+        "data": ["Conditions des patinoires (sites hivernaux)"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "http://www2.ville.montreal.qc.ca/services_citoyens/pdf_transfert/L29_PATINOIRE.xml",
+          "http://montreal2.qc.ca/ski/donnees/conditions_neige.xml"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/sites-hiver",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Tourisme, sports et loisirs"]
+      },
+      {
+        "name": "title",
+        "data": ["Conditions des glissades (sites hivernaux)"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "http://www2.ville.montreal.qc.ca/services_citoyens/pdf_transfert/L29_GLISSADE.xml",
+          "http://montreal2.qc.ca/ski/donnees/conditions_neige.xml"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/installations-recreatives-sportives-et-culturelles",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Tourisme, sports et loisirs"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Installations récréatives, sportives et culturelles extérieures"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/60850740-dd83-47ee-9a19-13d674e90314/resource/1c239e86-8b36-476c-bd51-91a3cd20f687/download/terrain_sport_ext.csv",
+          "https://donnees.montreal.ca/dataset/60850740-dd83-47ee-9a19-13d674e90314/resource/2dac229f-6089-4cb7-ab0b-eadc6a147d5d/download/terrain_sport_ext.json",
+          "https://donnees.montreal.ca/dataset/60850740-dd83-47ee-9a19-13d674e90314/resource/f18aed5c-0e2b-48f2-85ec-0e35516bde42/download/shapefile.zip"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/promenade-fleuve-montagne",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Promenade Fleuve-Montagne"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/71433534-694b-4538-8cd7-86530790ab0c/resource/399d91dd-6858-40d1-82d9-11d289343e97/download/fleuve_montagne_attractions.csv",
+          "https://donnees.montreal.ca/dataset/71433534-694b-4538-8cd7-86530790ab0c/resource/6233330e-e60f-4e0e-a4ca-708585284aef/download/fleuve_montagne_attractions.zip",
+          "https://donnees.montreal.ca/dataset/71433534-694b-4538-8cd7-86530790ab0c/resource/61ef6b25-912f-4304-a648-2f0de078c9af/download/fleuve_montagne_attractions.geojson",
+          "https://donnees.montreal.ca/dataset/71433534-694b-4538-8cd7-86530790ab0c/resource/b73df906-cfa8-417b-9326-d512c30d45a6/download/fleuve_montagne_polylines.zip",
+          "https://donnees.montreal.ca/dataset/71433534-694b-4538-8cd7-86530790ab0c/resource/ca1ba7b9-df5b-452e-9cf6-7d478b0bdce4/download/fleuve_montagne_polylines.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/reconnaissance-panam",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Politiques sociales"]
+      },
+      {
+        "name": "title",
+        "data": ["Organismes ayant reconnaissance PANAM"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/f0bec8bb-2694-4ff4-8a41-98c6d4480d7d/resource/afedd652-f414-4344-9dd2-386325340db8/download/organismes-panam.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/rues-pietonnes",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Rues piétonnes et partagées"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/1e153f9f-3930-4133-8d35-ade2e8f7e7e3/resource/22411a5b-0c6f-4ac3-b385-f61ac4bcfbdb/download/ruespietonnespartagees.kml",
+          "https://donnees.montreal.ca/dataset/1e153f9f-3930-4133-8d35-ade2e8f7e7e3/resource/ef2a8162-0644-47e7-bd03-bea33f14a5d2/download/projetpietonnisation2017.csv",
+          "https://donnees.montreal.ca/dataset/1e153f9f-3930-4133-8d35-ade2e8f7e7e3/resource/425d94e5-19e9-450a-89ef-4548ed409dcd/download/projetpietonnisation2017.zip",
+          "https://donnees.montreal.ca/dataset/1e153f9f-3930-4133-8d35-ade2e8f7e7e3/resource/dfe003f6-2dd1-4c50-af68-154a914421cc/download/projetpietonnisation2017.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/ruelles-vertes",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Tourisme, sports et loisirs"]
+      },
+      {
+        "name": "title",
+        "data": ["Ruelles vertes"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/ab3ce7bb-09a7-49d7-8f76-461ed4c39937/resource/e70c1a18-57ce-41b4-895b-b54782ff788e/download/ruelles-vertes.csv",
+          "https://donnees.montreal.ca/dataset/ab3ce7bb-09a7-49d7-8f76-461ed4c39937/resource/15883136-0180-4061-9860-d7ce3d46c73c/download/ruelles-vertes.geojson",
+          "https://donnees.montreal.ca/dataset/ab3ce7bb-09a7-49d7-8f76-461ed4c39937/resource/e1440534-f438-43d3-ab7b-bcd09d72d3cd/download/ruelles-vertes.zip"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/piscines-municipales",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Tourisme, sports et loisirs"]
+      },
+      {
+        "name": "title",
+        "data": ["Piscines municipales"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/4604afb7-a7c4-4626-a3ca-e136158133f2/resource/cbdca706-569e-4b4a-805d-9af73af03b14/download/piscines.csv",
+          "https://donnees.montreal.ca/dataset/4604afb7-a7c4-4626-a3ca-e136158133f2/resource/e202c0f4-d65d-4d5f-893d-dc392d83298d/download/piscines.geojson",
+          "https://donnees.montreal.ca/dataset/4604afb7-a7c4-4626-a3ca-e136158133f2/resource/9bdd3e1a-8f37-444d-9605-d6905cf4a689/download/piscines.zip",
+          "https://donnees.montreal.ca/dataset/4604afb7-a7c4-4626-a3ca-e136158133f2/resource/6699ba3f-5920-41f6-950d-cca53d3c1f0f/download/piscines.kml"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/cyclovias",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Tourisme, sports et loisirs"]
+      },
+      {
+        "name": "title",
+        "data": ["Cyclovias - Calendrier des activités"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/ff4a0aae-cda7-4ec5-af3b-426ea0e6164f/resource/59a1c97d-441c-45c8-9327-321044dc07a4/download/programme-cyclovia.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/lieux-d-interet",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Tourisme, sports et loisirs"]
+      },
+      {
+        "name": "title",
+        "data": ["Lieux d'intérêt"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/sense/app/9def2afd-f634-4a3f-ace9-56a4dcd5d947/sheet/4868182e-130a-433c-80d1-e0fe54233a57/state/analysis",
+          "https://donnees.montreal.ca/dataset/763fe3b8-cdc3-4b8a-bbbd-a0a9bc587c56/resource/edce22aa-f7cc-495e-9c53-b367f68309f6/download/lieux_d_interet.csv",
+          "https://donnees.montreal.ca/dataset/763fe3b8-cdc3-4b8a-bbbd-a0a9bc587c56/resource/5ca7cdb8-f86f-4038-b5a8-657446c75427/download/lieux_d_interet.geojson",
+          "https://donnees.montreal.ca/dataset/763fe3b8-cdc3-4b8a-bbbd-a0a9bc587c56/resource/e037b4a9-0df8-4985-be76-2cf6c652646a/download/lieux_d_interet.zip"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/portrait-camps-de-jour2013",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Tourisme, sports et loisirs"]
+      },
+      {
+        "name": "title",
+        "data": ["Portrait des camps de jour municipaux 2013"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/02e96f8f-2595-469b-bda0-0676cbd1ea67/resource/e19b3bdb-b83a-422c-a24d-8f5a8332eff0/download/compilationpartieaportraitcampsjour2013.csv",
+          "https://donnees.montreal.ca/dataset/02e96f8f-2595-469b-bda0-0676cbd1ea67/resource/76db9fef-e651-4135-86ed-81b46d9e8857/download/compilationpartiebportraitcampsjour2013.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/stationnement-sur-rue-signalisation-courant",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Signalisation (stationnement sur rue)"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/8ac6dd33-b0d3-4eab-a334-5a6283eb7940/resource/7f1d4ae9-1a12-46d7-953e-6b9c18c78680/download/signalisation_stationnement.csv",
+          "https://donnees.montreal.ca/dataset/8ac6dd33-b0d3-4eab-a334-5a6283eb7940/resource/52cecff0-2644-4258-a2d1-0c4b3b116117/download/signalisation_stationnement.geojson",
+          "https://donnees.montreal.ca/dataset/8ac6dd33-b0d3-4eab-a334-5a6283eb7940/resource/6efbe51d-141f-4a78-b6ab-5927f0789fed/download/signalisation_stationnement.zip",
+          "https://donnees.montreal.ca/dataset/8ac6dd33-b0d3-4eab-a334-5a6283eb7940/resource/1baac760-4311-4b4f-8996-db93d348cc24/download/signalisation-codification-rpa.csv",
+          "https://data.montreal.ca/dataset/c5bf5e9c-528b-4c28-b52f-218215992e35/resource/0795f422-b53b-41ca-89be-abc1069a88c9/download/signalisation-codification-rpa.json",
+          "https://donnees.montreal.ca/dataset/8ac6dd33-b0d3-4eab-a334-5a6283eb7940/resource/5b381343-121d-478e-8328-7698063d1f57/download/signalisation-codification-rtp.csv",
+          "https://data.montreal.ca/dataset/c5bf5e9c-528b-4c28-b52f-218215992e35/resource/dcdf4fb7-09d0-4674-a393-fe1cb1373d92/download/signalisation-codification-rtp.json",
+          "https://donnees.montreal.ca/dataset/8ac6dd33-b0d3-4eab-a334-5a6283eb7940/resource/3f678581-bd66-433f-999e-47a1b067c799/download/signalisationimagepanneau.zip",
+          "https://donnees.montreal.ca/dataset/8ac6dd33-b0d3-4eab-a334-5a6283eb7940/resource/89ed060b-6445-415f-b449-b433f207fb80/download/0-dec.-2015-catalogue-de-signalisation.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/remorquages-de-vehicules-genants",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Remorquages de véhicules entravant les opérations de la Ville de Montréal"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://vuesurlesdonnees.montreal.ca/pub/single/?appid=0a236d40-9a01-46b8-9c6c-22dce7865179&sheet=f8b1f885-6c7f-47c3-8e27-b966673c3980&opt=ctxmenu,currsel",
+          "https://donnees.montreal.ca/dataset/1d785ef8-f883-47b5-bac5-dce1cdddb1b0/resource/65dd096f-7296-40e8-8cfe-e26b928bcce5/download/remorquages.csv",
+          "https://donnees.montreal.ca/dataset/1d785ef8-f883-47b5-bac5-dce1cdddb1b0/resource/2edcdba3-ba83-470f-a441-01fd72dd965e/download/remorquages2005-2015.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/geobase-double",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Géobase double - côtés de rue du réseau routier"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/88493b16-220f-4709-b57b-1ea57c5ba405/resource/16f7fa0a-9ce6-4b29-a7fc-00842c593927/download/gbdouble.json",
+          "https://donnees.montreal.ca/dataset/88493b16-220f-4709-b57b-1ea57c5ba405/resource/9acb6c57-87f8-4035-bcf3-98ae3f48e76e/download/gbdouble.zip",
+          "https://donnees.montreal.ca/dataset/88493b16-220f-4709-b57b-1ea57c5ba405/resource/2f1717e9-0141-48ef-8943-ea348373667f/download/gbdouble.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/geobase-pole",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Géobase - pôles"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/2a3fac45-2345-4f7d-9001-53994d6f569c/resource/efc1c061-a05d-43ed-86f6-58cbcd33e283/download/pole.json",
+          "https://donnees.montreal.ca/dataset/2a3fac45-2345-4f7d-9001-53994d6f569c/resource/7bc95e19-8930-4d8c-86cd-0c8c54d99aed/download/pole.zip",
+          "https://donnees.montreal.ca/dataset/2a3fac45-2345-4f7d-9001-53994d6f569c/resource/79fa1da4-0355-4ecf-8306-31361bf101c2/download/pole.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/postes-attente-taxi",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Transport"]
+      },
+      {
+        "name": "title",
+        "data": ["Postes d'attente de taxi"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/a305bf87-97af-4f9c-9142-39e7b39f496c/resource/d89f5ed8-e252-453c-adc3-0fad63568163/download/postestaxi.csv",
+          "https://donnees.montreal.ca/dataset/a305bf87-97af-4f9c-9142-39e7b39f496c/resource/2d8bd708-b6a5-4e6b-88c7-0baef38c18f4/download/postestaxi.geojson",
+          "https://donnees.montreal.ca/dataset/a305bf87-97af-4f9c-9142-39e7b39f496c/resource/04cce418-0f1f-46c2-924f-911bf001a16b/download/postestaxi.zip"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/geobase",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Géobase - réseau routier"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/984f7a68-ab34-4092-9204-4bdfcca767c5/resource/cdf491fa-bf3d-4eb1-8692-c9aa1df462cd/download/geobase.csv",
+          "https://donnees.montreal.ca/dataset/984f7a68-ab34-4092-9204-4bdfcca767c5/resource/70c1f8c7-91a0-4553-b602-89c3edb959b5/download/geobase.zip",
+          "https://donnees.montreal.ca/dataset/984f7a68-ab34-4092-9204-4bdfcca767c5/resource/9d3d60d8-4e7f-493e-8d6a-dcd040319d8d/download/geobase.json"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/feux-malvoyants",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Feux de circulation – Signaux sonores pour malvoyants"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/0200c4ee-1644-4cbc-9dcf-ef2b6f5ac1e1/resource/7bb553f2-6c9c-442e-b426-09fdab4c61d9/download/traverses-pietonnes-signal-sonore.csv",
+          "https://donnees.montreal.ca/dataset/0200c4ee-1644-4cbc-9dcf-ef2b6f5ac1e1/resource/29a7b30d-8a27-4f22-aabc-d8ab5dbac770/download/traverses-pietonnes-signal-sonore.geojson",
+          "https://donnees.montreal.ca/dataset/0200c4ee-1644-4cbc-9dcf-ef2b6f5ac1e1/resource/229d9663-7356-430e-a6d4-a9afe8136931/download/traverses-pietonnes-signal-sonore.zip"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/feux-pietons",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Feux de circulation – feux pour piétons"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/9a42fb1d-7656-4839-8ac6-0f5d2b519503/resource/d43d1887-ff76-4b39-b961-6150535eb52c/download/feux-pietons.csv",
+          "https://donnees.montreal.ca/dataset/9a42fb1d-7656-4839-8ac6-0f5d2b519503/resource/0459cb20-d766-4358-8be3-9860f771c1e8/download/feux-pietons.geojson",
+          "https://donnees.montreal.ca/dataset/9a42fb1d-7656-4839-8ac6-0f5d2b519503/resource/66ba081b-5c0c-4867-bf48-8ebfc26bb8ff/download/feux-pietons.zip",
+          "https://donnees.montreal.ca/dataset/9a42fb1d-7656-4839-8ac6-0f5d2b519503/resource/0436805f-6149-40e7-ac7a-f3c33e54e65d/download/cusersuroyyandesktopdictionnairefeuxcirculation.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/feux-tous",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Feux de circulation – emplacements toutes intersections"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/02ebdab9-cbf3-4f56-8c29-79fa0ed0ed2e/resource/e69f6f40-8241-4f21-b104-b2091d1cf122/download/feux-circulation.csv",
+          "https://donnees.montreal.ca/dataset/02ebdab9-cbf3-4f56-8c29-79fa0ed0ed2e/resource/af3fd28f-19ee-4c80-b8d9-29f17f18620d/download/feux-circulation.geojson",
+          "https://donnees.montreal.ca/dataset/02ebdab9-cbf3-4f56-8c29-79fa0ed0ed2e/resource/3de489c6-2796-46d5-b8f3-e2405f65da2d/download/feux-circulation.zip",
+          "https://donnees.montreal.ca/dataset/02ebdab9-cbf3-4f56-8c29-79fa0ed0ed2e/resource/57add9ae-d19c-47a8-96e2-230d4345958f/download/dictionnairefeuxcirculation.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/comptage-vehicules-pietons",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Comptages des véhicules, cyclistes et piétons aux intersections munies de feux de circulation"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/584de76b-13b9-47ea-af12-0c37b8eb5de5/resource/f82f00c0-baed-4fa1-8b01-6ed60146d102/download/comptages_vehicules_cyclistes_pietons.csv",
+          "https://donnees.montreal.ca/dataset/584de76b-13b9-47ea-af12-0c37b8eb5de5/resource/7c521d09-7e84-4759-856e-b5a04b95330a/download/comptages_vehicules_cyclistes_pietons.geojson",
+          "https://donnees.montreal.ca/dataset/584de76b-13b9-47ea-af12-0c37b8eb5de5/resource/182596fc-a64b-4069-b41c-52a8e9b5aa23/download/comptages_vehicules_cyclistes_pietons.zip",
+          "https://donnees.montreal.ca/dataset/584de76b-13b9-47ea-af12-0c37b8eb5de5/resource/c34e0f58-8615-488b-92c2-46a518057be9/download/comptages_vehicules_cyclistes_pietons_2023_2025.csv",
+          "https://donnees.montreal.ca/dataset/584de76b-13b9-47ea-af12-0c37b8eb5de5/resource/c42c830f-cf4a-4637-8615-a6f6bf49ed36/download/comptages_vehicules_cyclistes_pietons_2020_2022.csv",
+          "https://donnees.montreal.ca/dataset/584de76b-13b9-47ea-af12-0c37b8eb5de5/resource/344631f8-487a-4a33-ac29-be7d9ad06471/download/comptages_vehicules_cyclistes_pietons_2017_2019.csv",
+          "https://donnees.montreal.ca/dataset/584de76b-13b9-47ea-af12-0c37b8eb5de5/resource/14003bb3-6cba-4cb7-8e6d-0935a0ec186d/download/comptages_vehicules_cyclistes_pietons_2014_2016.csv",
+          "https://donnees.montreal.ca/dataset/584de76b-13b9-47ea-af12-0c37b8eb5de5/resource/83f95a90-a505-4257-886d-c84aea7b14fa/download/comptages_vehicules_cyclistes_pietons_2011_2013.csv",
+          "https://donnees.montreal.ca/dataset/584de76b-13b9-47ea-af12-0c37b8eb5de5/resource/21f56a1e-8398-43a7-b8c3-f30625392014/download/comptages_vehicules_cyclistes_pietons_2008_2010.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/velos-comptage",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Comptages des vélos sur les pistes cyclables"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/f170fecc-18db-44bc-b4fe-5b0b6d2c7297/resource/c7d0546a-a218-479e-bc9f-ce8f13ca972c/download/localisation_des_compteurs_velo.csv",
+          "https://donnees.montreal.ca/dataset/f170fecc-18db-44bc-b4fe-5b0b6d2c7297/resource/65a37da8-a7cf-4812-a3b5-5edff31c45f6/download/comptage_velo_2023.csv",
+          "https://donnees.montreal.ca/dataset/f170fecc-18db-44bc-b4fe-5b0b6d2c7297/resource/fd3da18e-8f87-44e4-890b-30dff05c12b8/download/comptage_velo_2022.csv",
+          "https://donnees.montreal.ca/dataset/f170fecc-18db-44bc-b4fe-5b0b6d2c7297/resource/b463fa29-8549-4664-ae68-b17ab604e0a5/download/comptage_velo_2021.csv",
+          "https://donnees.montreal.ca/dataset/f170fecc-18db-44bc-b4fe-5b0b6d2c7297/resource/eec17749-1a50-47b2-bc4e-1960ddc09eff/download/comptage_velo_2020.csv",
+          "https://donnees.montreal.ca/dataset/f170fecc-18db-44bc-b4fe-5b0b6d2c7297/resource/2cd0e082-f818-4014-9390-8e1c197ba806/download/comptage_velo_2019.csv",
+          "https://donnees.montreal.ca/dataset/f170fecc-18db-44bc-b4fe-5b0b6d2c7297/resource/eea2434f-32b3-4dc5-9035-f1642509f0e7/download/comptage_velo_2018.csv",
+          "https://donnees.montreal.ca/dataset/f170fecc-18db-44bc-b4fe-5b0b6d2c7297/resource/83063700-8fe7-4e6f-8c4b-ed55f4602514/download/comptagevelo2017.csv",
+          "https://donnees.montreal.ca/dataset/f170fecc-18db-44bc-b4fe-5b0b6d2c7297/resource/6caecdd0-e5ac-48c1-a0cc-5b537936d5f6/download/comptagevelo20162.csv",
+          "https://donnees.montreal.ca/dataset/f170fecc-18db-44bc-b4fe-5b0b6d2c7297/resource/64c26fd3-0bdf-45f8-92c6-715a9c852a7b/download/comptagevelo20152.csv",
+          "https://donnees.montreal.ca/dataset/f170fecc-18db-44bc-b4fe-5b0b6d2c7297/resource/868b4bc8-ff55-4c48-ab3b-d80615445595/download/comptagevelo2014.csv",
+          "https://donnees.montreal.ca/dataset/f170fecc-18db-44bc-b4fe-5b0b6d2c7297/resource/ec12447d-6b2a-45d0-b0e7-fd69c382e368/download/comptagevelo2013.csv",
+          "https://donnees.montreal.ca/dataset/f170fecc-18db-44bc-b4fe-5b0b6d2c7297/resource/d54cec49-349e-47af-b152-7740056d7311/download/comptagevelo2012.csv",
+          "https://donnees.montreal.ca/dataset/f170fecc-18db-44bc-b4fe-5b0b6d2c7297/resource/f2e43419-ebb2-4e38-80b6-0644c8344338/download/comptagevelo2011.csv",
+          "https://donnees.montreal.ca/dataset/f170fecc-18db-44bc-b4fe-5b0b6d2c7297/resource/f23e1c88-cd04-467f-a64a-48f5eb1b6c9e/download/comptagevelo2010.csv",
+          "https://donnees.montreal.ca/dataset/f170fecc-18db-44bc-b4fe-5b0b6d2c7297/resource/ee1e9541-939d-429e-919a-8ab94527773c/download/comptagevelo2009.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/bornes-recharge-publiques",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Bornes de recharge publiques pour voitures électriques"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/c999d1a9-8333-4871-9226-7d3a53f490a6/resource/98ef3ed6-56ca-4d5e-a213-fd72066b18b5/download/bornes-recharge-publiques.csv",
+          "https://donnees.montreal.ca/dataset/c999d1a9-8333-4871-9226-7d3a53f490a6/resource/b502cee9-ff87-44fa-9a8e-722285202b0d/download/bornes-recharge-publiques.geojson",
+          "https://donnees.montreal.ca/dataset/c999d1a9-8333-4871-9226-7d3a53f490a6/resource/621f836f-9a20-4636-a0c3-a7f4b8015f5f/download/bornes-recharge-publiques.zip"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/pistes-cyclables",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Réseau cyclable"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/5ea29f40-1b5b-4f34-85b3-7c67088ff536/resource/9d689738-154d-4c6f-9f4d-67b1fa5574f1/download/reseau_cyclable_dictionnaire_donnees.pdf",
+          "https://donnees.montreal.ca/dataset/5ea29f40-1b5b-4f34-85b3-7c67088ff536/resource/234c8ee4-d9d8-4bb1-b957-3e5cd495a5aa/download/reseau_cyclable.zip",
+          "https://donnees.montreal.ca/dataset/5ea29f40-1b5b-4f34-85b3-7c67088ff536/resource/0dc6612a-be66-406b-b2d9-59c9e1c65ebf/download/reseau_cyclable.geojson"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/camionnage-reglements",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Règlements relatifs à la circulation des véhicules lourds et des véhicules outils sur le territoire de l'agglomération de Montréal."
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://services.montreal.ca/camionnage/",
+          "https://donnees.montreal.ca/dataset/47288f15-beca-4179-939d-fe3fbf5e5ae4/resource/bf9eb28e-ec87-4aa5-9c89-58a93648d91d/download/bdgeo_camion.zip",
+          "https://donnees.montreal.ca/dataset/47288f15-beca-4179-939d-fe3fbf5e5ae4/resource/ac1ffbf2-d71c-4c5a-b60c-066b1db5c89d/download/bdgeo_camion.geojson",
+          "https://donnees.montreal.ca/dataset/47288f15-beca-4179-939d-fe3fbf5e5ae4/resource/c56db368-4d67-455c-934e-d93edc955280/download/bdgeo_camion.gpkg",
+          "https://donnees.montreal.ca/dataset/47288f15-beca-4179-939d-fe3fbf5e5ae4/resource/18b7de5a-05ae-4084-aa03-99e5ba1fae20/download/camion_zones.zip",
+          "https://donnees.montreal.ca/dataset/47288f15-beca-4179-939d-fe3fbf5e5ae4/resource/f8bb5662-d44e-4ac5-a679-220f08ce9710/download/camion_zones.geojson",
+          "https://donnees.montreal.ca/dataset/47288f15-beca-4179-939d-fe3fbf5e5ae4/resource/9e1fb82d-7eca-4fce-a739-3e06a2ee6d50/download/camion_zones.gpkg"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/stm-bus-temps-reel-gtfs-realtime",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Transport"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Horaires et positionnement des bus en temps réel (GTFS-realtime)"
+        ]
+      },
+      {
+        "name": "links",
+        "data": ["https://www.stm.info/fr/a-propos/developpeurs"]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/cameras-observation-routiere",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Caméras d'observation routière"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://ville.montreal.qc.ca/circulation/sites/ville.montreal.qc.ca.circulation/files/cameras-de-circulation.json",
+          "https://ville.montreal.qc.ca/circulation/sites/ville.montreal.qc.ca.circulation/files/cameras-de-circulation.csv",
+          "https://donnees.montreal.ca/dataset/317b3dfc-54bc-41be-9a8e-7ea4627a09a5/resource/6b1b28d2-8c2c-41ef-af44-122152beb076/download/dictionnairedonneescameras.xlsx"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/trajets-individuels-velo-enregistre-mon-resovelo",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Trajets individuels à vélo enregistrés par Mon RésoVélo"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/77f30d2b-c786-45f0-9f33-ebdef46f3b4c/resource/2f05c452-6b63-4fba-8220-ac7104492074/download/trip5000.zip"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/info-travaux",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Infrastructures"]
+      },
+      {
+        "name": "title",
+        "data": ["Info-travaux"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://applicatif.ville.montreal.qc.ca/chantiers/media/kml/info_travaux.kml"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/temps-de-parcours-sur-des-segments-routiers-historique",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Transport"]
+      },
+      {
+        "name": "title",
+        "data": ["Temps de parcours sur des segments routiers (historique)"]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://depot.ville.montreal.qc.ca/temps_parcours/trips2019.csv",
+          "https://depot.ville.montreal.qc.ca/temps_parcours/trips2018.csv",
+          "https://depot.ville.montreal.qc.ca/temps_parcours/trips2017.csv",
+          "https://depot.ville.montreal.qc.ca/temps_parcours/trips2016.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "https://donnees.montreal.ca/en/dataset/stationnements-vnilssa",
+    "data": [
+      {
+        "name": "category",
+        "data": ["Transport"]
+      },
+      {
+        "name": "title",
+        "data": [
+          "Espaces de stationnement des VNILSSA (véhicules non immatriculés en libre-service sans ancrage)"
+        ]
+      },
+      {
+        "name": "links",
+        "data": [
+          "https://donnees.montreal.ca/dataset/55a1a627-bc86-4f1c-940e-20131c678021/resource/115a8d97-c37a-4a7e-bebb-7534809a11ff/download/vnilssa-2019.csv"
+        ]
+      }
+    ]
+  }
+]
