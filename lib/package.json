@@ -1,0 +1,44 @@
+{
+  "name": "mtl-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "pretty": "prettier --write .",
+    "publish-lib": "npm run build && npm publish",
+    "publish-beta": "npm run build && npm publish --tag beta",
+    "publish-dryrun": "npm run build && npm publish --dry-run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stockhuman/mtl-data.git"
+  },
+  "keywords": [
+    "typescript",
+    "library"
+  ],
+  "author": "Michael Hemingway",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stockhuman/mtl-data/issues"
+  },
+  "homepage": "https://github.com/stockhuman/mtl-data#readme",
+  "devDependencies": {
+    "@tsconfig/node-lts": "^18.12.5",
+    "@types/node": "^20.8.7",
+    "prettier": "^3.0.3",
+    "typescript": "5.2.2"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.2"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
