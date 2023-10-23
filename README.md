@@ -65,11 +65,11 @@ Correct behaviour will behave as such:
   CATEGORIE: 'Vol de véhicule à moteur',
   DATE: '2017-08-01',
   QUART: 'jour',
-  PDQ: 5,
-  X: 285957.555991756,
-  Y: 5033790.67699391,
-  LONGITUDE: -73.740866,
-  LATITUDE: 45.443794
+  PDQ: '5',
+  X: '285957.555991756',
+  Y: '5033790.67699391',
+  LONGITUDE: '-73.740866',
+  LATITUDE: '45.443794'
 }
 
 {
