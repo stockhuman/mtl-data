@@ -1,10 +1,10 @@
-const Operation = require("nodejs-web-scraper/operations/Operation");
-var cheerio = require("cheerio");
+const Operation = require('nodejs-web-scraper/operations/Operation')
+var cheerio = require('cheerio')
 
 class CollectContent2 extends Operation {
   constructor(querySelector, config) {
-    super(config);
-    this.querySelector = querySelector;
+    super(config)
+    this.querySelector = querySelector
   }
 
   validateOperationArguments() {}
@@ -15,24 +15,24 @@ class CollectContent2 extends Operation {
    * @return {Promise<{type:string,name:string,data:[]}>}
    */
   async scrape({ html, url }) {
-    var $ = cheerio.load(html);
+    var $ = cheerio.load(html)
 
-    const downloadLinks = $("a[download]");
-    const links = [];
+    const downloadLinks = $('a[download]')
+    const links = []
 
     // Iterate over the selected links and print their href attributes
     downloadLinks.each((index, element) => {
-      links.push($(element).attr("href"));
-    });
+      links.push($(element).attr('href'))
+    })
 
     this.data.push(...links)
 
     return {
       type: this.constructor.name,
-      name: "links",
+      name: 'links',
       data: links,
-    };
+    }
   }
 }
 
-module.exports = CollectContent2;
+module.exports = CollectContent2
