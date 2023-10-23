@@ -1,6 +1,6 @@
 {
   "name": "mtl-data-scraper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Michael Hemingway",
   "scripts": {
     "scrape": "node index.js",
