@@ -2136,7 +2136,7 @@ const catalogue = [
   },
 ] as const
 
-export type Titles = typeof catalogue[number]['title']
-export type Record = typeof catalogue[number]
+export type Titles = (typeof catalogue)[number]['title']
+export type Record = (typeof catalogue)[number]
 
 export default catalogue

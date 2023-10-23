@@ -49,7 +49,7 @@ class DataSource {
     }
     if (this.type === 'csv') {
       this.data = await this.parse(address)
-    } else if (this.type === 'json') {
+    } else if (this.type === 'json' || this.type === 'geojson') {
       this.data = await fetch(address).then(d => d.json())
     } else if (this.type) {
       console.log(`[DataSource - ${this.record.title}] Parsing ${this.type} files is not supported`)
@@ -74,6 +74,9 @@ class DataSource {
   format() {
     if (!this.data)
       throw new Error(`[DataSource - ${this.record.title}] No data, call .snapshot() first!`)
+    // GeoJSON is a standard format already
+    if (this.type === 'geojson') return this
+  
     const sample = this.data[0]
     if (sample) {
       const keys = Object.keys(sample)
@@ -82,11 +85,11 @@ class DataSource {
       for (let i = 0; i < keys.length; i++) {
         // see https://stackoverflow.com/a/37511463
         const nkey = keys[i]
-          .normalize('NFD')
+          .normalize('NFD') // remove diacritics
           .replace(/[\u0300-\u036f]/g, '')
-          .trim()
+          .trim() // remove errant whitespace
           .toLowerCase()
-          .replaceAll(' ', '_')
+          .replaceAll(' ', '_') // remove spaces for easier dot-access
 
         let v = values[i] as string
         let flot = v.indexOf('-') > 1 ? v : parseFloat(v)
@@ -103,7 +106,19 @@ class DataSource {
         const m = new Map([])
         const d = Object.values(this.data[i])
         for (let t = 0; t < tlength; t++) {
-          m.set(keys[t], tvalues[t] === 'number' ? parseFloat(d[t] as string) : d[t])
+          let test = d[t]
+          if (tvalues[t] === 'number') {
+            test = parseFloat(d[t] as string)
+            if (isNaN(test as number)) {
+              // we roll back this cast, as something is clearly up
+              (test as unknown) = d[t] 
+            }
+            // turn missing data into null when numeric
+            if (test === '') {
+              test = null
+            }
+          }
+          m.set(tkeys[t], test)
         }
         nd.push(Object.fromEntries(m))
       }
@@ -118,6 +133,10 @@ class DataSource {
   schema() {
     if (!this.data)
       throw new Error(`[DataSource - ${this.record.title}] No data, call .snapshot() first!`)
+    if (this.type === 'geojson') {
+      // FeatureCollection, etc
+      return this.data.type
+    }
     const sample = this.data[0]
     if (sample) {
       const keys = Object.keys(sample)
