@@ -1,25 +1,4 @@
-type Category =
-  | 'Agriculture et alimentation'
-  | 'Environnement, ressources naturelles et énergie'
-  | 'Économie et entreprises'
-  | 'Gouvernement et finances'
-  | 'Politiques sociales'
-  | 'Infrastructures'
-  | 'Santé'
-  | 'Loi, justice et sécurité publique'
-  | 'Société et culture'
-  | 'Tourisme, sports et loisirs'
-  | 'Transport'
-
-export interface Record {
-  address: string
-  category: Category
-  title: string
-  resources: readonly string[]
-  types: readonly ('csv' | 'zip' | 'geojson' | 'gpkg' | 'json' | 'xlsx' | 'kml' | 'pdf' | 'docx')[]
-}
-
-const catalogue: readonly Record[] = [
+const catalogue = [
   {
     address: 'https://donnees.montreal.ca/en/dataset/lieux-batiments-vocation-publique',
     category: 'Agriculture et alimentation',
@@ -2156,5 +2135,8 @@ const catalogue: readonly Record[] = [
     types: ['csv'],
   },
 ] as const
+
+export type Titles = typeof catalogue[number]['title']
+export type Record = typeof catalogue[number]
 
 export default catalogue

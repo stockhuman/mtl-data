@@ -1,0 +1,17 @@
+{
+  "name": "mtl-consumer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node somefile.js",
+    "linklib": "npm run --prefix ../lib build && npm link ../lib",
+    "install-beta": "npm install mtl-data@beta",
+    "install-lib": "npm install mtl-data"
+  },
+  "author": "Michael Hemingway",
+  "license": "ISC",
+  "dependencies": {
+    "mtl-data": "1.0.0"
+  }
+}
